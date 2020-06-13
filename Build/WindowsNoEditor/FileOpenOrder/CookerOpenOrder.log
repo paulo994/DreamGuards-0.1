@@ -1,0 +1,304 @@
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 0
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Blueprints/setDir.uasset" 1
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 2
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 3
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 4
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 5
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/ESPADA/weapon02_0012_thumb512_Sprite_0.uasset" 6
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/ESPADA/weapon02_0012_thumb512_Sprite_1.uasset" 7
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/ESPADA/weapon02_0012_thumb512_Sprite_2.uasset" 8
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/ESPADA/espada.uasset" 9
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/abajo/MainC_Mc_0.uasset" 10
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/abajo/D_aba.uasset" 11
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/abajo/MainC_Mc_1.uasset" 12
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/abajo/MainC_Mc_2.uasset" 13
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/abajo/MainC_Mc_3.uasset" 14
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/abajoMC.uasset" 15
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/arriba/MainC_Mc_24.uasset" 16
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/arriba/D_adel.uasset" 17
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/arriba/MainC_Mc_25.uasset" 18
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/arriba/MainC_Mc_26.uasset" 19
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/arriba/MainC_Mc_27.uasset" 20
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/arribaMC.uasset" 21
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/derabaj/1_1.uasset" 22
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/derabaj/1_2.uasset" 23
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/derabaj/1_3.uasset" 24
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/derabaj/1_4.uasset" 25
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/deraba.uasset" 26
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/derabaj/D_derabaj.uasset" 27
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/derarriba/MainC_Sprite_0.uasset" 28
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/derarriba/MainC_Sprite_1.uasset" 29
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/derarriba/MainC_Sprite_2.uasset" 30
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/derarMC.uasset" 31
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/derarriba/D_derarriba.uasset" 32
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/derecha/MainC_Mc_19.uasset" 33
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/derecha/D_der.uasset" 34
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/derecha/MainC_Mc_16.uasset" 35
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/derecha/MainC_Mc_17.uasset" 36
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/derecha/MainC_Mc_18.uasset" 37
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/DerMC.uasset" 38
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/izq/MainC_Mc_1_Sprite.uasset" 39
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/izq/MainC_Mc_2_Sprite.uasset" 40
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/izq/MainC_Mc_3_Sprite.uasset" 41
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/izq/MainC_Mc_4_Sprite.uasset" 42
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/izq.uasset" 43
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/izq/D_izq.uasset" 44
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/izqabaj/1_1.uasset" 45
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/izqabaj/D_izqabaj.uasset" 46
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/izqarriba/MainC_Mc_28.uasset" 47
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/izqarriba/MainC_Mc_29.uasset" 48
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/izqarriba/MainC_Mc_30.uasset" 49
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/izqarriba/MainC_Mc_31.uasset" 50
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/izqarMC.uasset" 51
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/izqarriba/D_izqarriba.uasset" 52
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/PJ_Sprite.uasset" 53
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/PJ_Flipbook.uasset" 54
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Blueprints/Main.uasset" 55
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Blueprints/gamemode.uasset" 56
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Blueprints/interfaz.uasset" 57
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Blueprints/patrullar.uasset" 58
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Blueprints/movimiento.uasset" 59
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Blueprints/PJ.uasset" 60
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Blueprints/spawner.uasset" 61
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/111_Sprite_0.uasset" 62
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/111_Sprite_1.uasset" 63
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/111_Sprite_2.uasset" 64
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/111_Sprite_3.uasset" 65
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombijavier.uasset" 66
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Blueprints/zomby3.uasset" 67
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/ESPADA/weapon02_0012_thumb512.uasset" 68
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/objetos/accessory01_0001_thumb512.uasset" 69
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/objetos/accessory01_0001_thumb512_Sprite.uasset" 70
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/objetos/accessory01_0022_thumb512.uasset" 71
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/1.uasset" 72
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/2.uasset" 73
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/3.uasset" 74
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/4.uasset" 75
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/5.uasset" 76
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/6.uasset" 77
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/7.uasset" 78
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/8.uasset" 79
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/izqabaj/1_2.uasset" 80
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/izqabaj/1_3.uasset" 81
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/izqabaj/1_4.uasset" 82
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/izqaba.uasset" 83
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/MainC.uasset" 84
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/MainC_Mc_1.uasset" 85
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/MainC_Mc_2.uasset" 86
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/MainC_Mc_3.uasset" 87
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/MainC_Mc_4.uasset" 88
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/PJ.uasset" 89
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/PJ/derarriba/MainC_Sprite_3.uasset" 90
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/111.uasset" 91
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/objetos.uasset" 92
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/pinos.uasset" 93
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/pno-outside_TileMap.uasset" 94
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/iso-64x64-outside_TileMap.uasset" 95
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/prueba-pj.uasset" 96
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/prueba-pj_Sprite_0.uasset" 97
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/prueba-pj_Sprite_1.uasset" 98
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/prueba-pj_Sprite_2.uasset" 99
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/prueba-pj_Sprite_3.uasset" 100
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombie3.uasset" 101
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombie3_zombiex1_10.uasset" 102
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombie3_zombiex1_11.uasset" 103
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombie3_zombiex1_4.uasset" 104
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombie3_zombiex1_5.uasset" 105
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombie3_zombiex1_6.uasset" 106
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombie3_zombiex1_7.uasset" 107
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombie3_zombiex1_8.uasset" 108
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombie3_zombiex1_9.uasset" 109
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombie3_zombiex1.uasset" 110
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombie3_zombiex1_0.uasset" 111
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombie3_zombiex1_1.uasset" 112
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombie3_zombiex1_12.uasset" 113
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombie3_zombiex1_13.uasset" 114
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombie3_zombiex1_14.uasset" 115
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombie3_zombiex1_15.uasset" 116
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombie3_zombiex1_2.uasset" 117
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombie3_zombiex1_3.uasset" 118
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/zombie/zombie3_zombiex2.uasset" 119
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/basic_ground_tiles.uasset" 120
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/128x128_basic_ground_tiles_TileSet.uasset" 121
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/6_37_TileSet.uasset" 122
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/door.uasset" 123
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/door_TileSet.uasset" 124
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/environment_forestbackground1-1.uasset" 125
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/isometric.uasset" 126
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/isometric_TileSet.uasset" 127
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/nimbus_land.uasset" 128
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/nimbus_land_TileSet.uasset" 129
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/reja-2_0.uasset" 130
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/reja-2_0_TileSet.uasset" 131
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 132
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 133
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 134
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 135
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 136
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 137
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 138
+"../../../Engine/Content/BasicShapes/Cone.uasset" 139
+"../../../Engine/Content/BasicShapes/Cube.uasset" 140
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 141
+"../../../Engine/Content/BasicShapes/Plane.uasset" 142
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 143
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 144
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 145
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 146
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 147
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 148
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 149
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 150
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 151
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 152
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 153
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 154
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 155
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 156
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 157
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 158
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 159
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 160
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 161
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 162
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 163
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 164
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 165
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 166
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 167
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 168
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 169
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 170
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 171
+"../../../Engine/Content/EditorResources/S_Note.uasset" 172
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 173
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 174
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 175
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 176
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 177
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 178
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 179
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 180
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 181
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 182
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 183
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 184
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 185
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 186
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 187
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 188
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 189
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 190
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 191
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 192
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 193
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 194
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 195
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 196
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 197
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 198
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 199
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 200
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 201
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 202
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 203
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 204
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 205
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 206
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 207
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 208
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 209
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 210
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 211
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 212
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 213
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 214
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 215
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 216
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 217
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 218
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 219
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 220
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 221
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 222
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 223
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 224
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 225
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 226
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 227
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 228
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 229
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 230
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 231
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 232
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 233
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 234
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 235
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 236
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 237
+"../../../Engine/Content/EngineResources/Black.uasset" 238
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 239
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 240
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 241
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 242
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 243
+"../../../Engine/Content/EngineSounds/Master.uasset" 244
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 245
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 246
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 247
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 248
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 249
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 250
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 251
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 252
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 253
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 254
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 255
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 256
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 257
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 258
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 259
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 260
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 261
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 262
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 263
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 264
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 265
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 266
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 267
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 268
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 269
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 270
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 271
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 272
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 273
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 274
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 275
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 276
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 277
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 278
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 279
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 280
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 281
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 282
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 283
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 284
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 285
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 286
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 287
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 288
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 289
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 290
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 291
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Blueprints/zomby.uasset" 292
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Blueprints/zomby2.uasset" 293
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Sprites/objetos/accessory01_0022_thumb512_Sprite.uasset" 294
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/environment_forestbackground1-1_Sprite.uasset" 295
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/iso-64x64-outside.uasset" 296
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/iso-64x64-outside_TileSet.uasset" 297
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/parte_puente.uasset" 298
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/parte_puente_TileSet.uasset" 299
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/Tiles/iso-64x64-outside_TileMap.uasset" 300
+"../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/Content/try2-1.umap" 301
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 302
+"../../../Engine/Content/Maps/Entry.umap" 303
