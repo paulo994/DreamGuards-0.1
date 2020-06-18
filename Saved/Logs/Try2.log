@@ -1694,3 +1694,805 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.18-01.53.52:161][763]LogAudioMixer: Display: No commands were queued while flushing the source manager.
 [2020.06.18-01.53.52:191][763]LogUObjectHash: Compacting FUObjectHashTables data took   9.23ms
 [2020.06.18-01.53.52:216][764]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.06.18-01.59.22:829][460]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.06.18-01.59.22:830][460]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/try2-1' took 0.054
+[2020.06.18-01.59.22:831][460]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/HUD/Interface] ([1] browsable assets)...
+[2020.06.18-01.59.22:831][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/Interface]
+[2020.06.18-01.59.22:885][460]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Interface_Auto01850A90246024152453262A45C172C36.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/HUD/Interface_Auto0.uasset'
+[2020.06.18-01.59.22:908][460]LogFileHelpers: Auto-saving content packages took 0.078
+[2020.06.18-02.00.13:797][874]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.00.13:797][874]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.00.13:798][874]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.00.14:197][875]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.00.14:977][877]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.00.15:634][879]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.00.15:634][879]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.00.15:634][879]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.00.15:634][879]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.00.17:112][883]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.00.18:342][886]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.00.18:343][886]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.00.21:655][896]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.00.23:045][900]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.00.23:678][902]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.00.23:678][902]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.00.24:089][903]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.00.25:576][907]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.00.26:339][909]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.24.17:056][485]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.06.18-02.24.17:830][485]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/try2-18BC191BB400BCFBFC5B9F4B1894151AD.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/try2-1.umap'
+[2020.06.18-02.24.18:490][485]AssetCheck: New page: Asset Save: try2-1
+[2020.06.18-02.24.18:490][485]LogContentValidation: Display: Validating World /Game/try2-1.try2-1
+[2020.06.18-02.24.19:246][526]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.18-02.24.19:287][526]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.24.19:287][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.18-02.24.19:287][526]PIE: New page: PIE session: try2-1 (Jun 17, 2020, 6:24:19 PM)
+[2020.06.18-02.24.19:287][526]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_try2-1
+[2020.06.18-02.24.19:300][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012381s)
+[2020.06.18-02.24.19:302][526]LogAIModule: Creating AISystem for world try2-1
+[2020.06.18-02.24.19:302][526]LogPlayLevel: PIE: World Init took: (0.001464s)
+[2020.06.18-02.24.19:302][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/try2-1.try2-1 to /Game/UEDPIE_0_try2-1.try2-1 (0.014034s)
+[2020.06.18-02.24.19:384][526]LogUObjectHash: Compacting FUObjectHashTables data took   7.99ms
+[2020.06.18-02.24.19:386][526]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.18-02.24.19:386][526]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.18-02.24.19:386][526]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.18-02.24.19:386][526]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.18-02.24.19:386][526]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.18-02.24.19:386][526]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.18-02.24.19:386][526]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.18-02.24.19:386][526]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.18-02.24.19:386][526]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.18-02.24.19:387][526]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.18-02.24.19:407][526]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.18-02.24.19:407][526]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.06.18-02.24.19:407][526]LogAudioMixer: Display: Is Default: Yes
+[2020.06.18-02.24.19:407][526]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.18-02.24.19:407][526]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.18-02.24.19:408][526]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.18-02.24.19:408][526]LogAudioMixer: Display: Channel Order:
+[2020.06.18-02.24.19:408][526]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.18-02.24.19:408][526]LogAudioMixer: Display: 1: FrontRight
+[2020.06.18-02.24.19:445][526]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.06.18-02.24.19:448][526]LogInit: FAudioDevice initialized.
+[2020.06.18-02.24.19:463][526]LogLoad: Game class is 'gamemode_C'
+[2020.06.18-02.24.19:470][526]LogWorld: Bringing World /Game/UEDPIE_0_try2-1.try2-1 up for play (max tick rate 60) at 2020.06.17-22.24.19
+[2020.06.18-02.24.19:470][526]LogWorld: Bringing up level for play took: 0.006027
+[2020.06.18-02.24.19:470][526]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.06.18-02.24.19:474][526]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.18-02.24.19:474][526]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.18-02.24.19:474][526]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.06.18-02.24.19:479][526]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.06.18-02.24.19:479][526]PIE: Play in editor start time for /Game/UEDPIE_0_try2-1 0.318
+[2020.06.18-02.24.19:479][526]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.24.23:022][726]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.24.23:022][726]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.24.23:022][726]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.24.23:023][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.18-02.24.23:023][726]LogWorld: BeginTearingDown for /Game/UEDPIE_0_try2-1
+[2020.06.18-02.24.23:023][726]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.24.23:023][726]LogWorld: UWorld::CleanupWorld for try2-1, bSessionEnded=true, bCleanupResources=true
+[2020.06.18-02.24.23:025][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.18-02.24.23:036][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.18-02.24.23:037][726]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.24.23:044][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.18-02.24.23:088][726]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.24.23:092][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.18-02.24.23:098][726]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.06.18-02.24.23:181][728]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.06.18-02.26.03:617][617]BlueprintLog: New page: Compile jud
+[2020.06.18-02.26.03:971][617]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2020.06.18-02.26.32:503][251]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/try2-1.try2-1:PersistentLevel.try2-1
+[2020.06.18-02.26.58:351][665]LogEditorTransaction: Undo Create Pin Link
+[2020.06.18-02.26.58:432][665]LogMaterial: Display: Missing cached shader map for material Health, compiling. 
+[2020.06.18-02.26.58:498][665]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.06.18-02.26.58:498][665]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.06.18-02.26.58:498][665]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.06.18-02.27.07:172][101]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2020.06.18-02.27.11:580][336]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.06.18-02.27.14:006][448]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.06.18-02.27.19:360][723]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.06.18-02.27.21:769][850]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.06.18-02.27.24:820][ 13]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.06.18-02.27.27:406][137]LogUObjectHash: Compacting FUObjectHashTables data took   8.19ms
+[2020.06.18-02.27.28:517][137]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/try2-1B9988DA04F673EF81CA3968FA71DE93A.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/try2-1.umap'
+[2020.06.18-02.27.28:600][137]LogFileHelpers: Saving map 'try2-1' took 1.317
+[2020.06.18-02.27.28:700][137]AssetCheck: New page: Asset Save: try2-1
+[2020.06.18-02.27.28:700][137]LogContentValidation: Display: Validating World /Game/try2-1.try2-1
+[2020.06.18-02.27.33:507][384]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2020.06.18-02.27.33:507][384]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2020.06.18-02.27.33:507][384]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2020.06.18-02.27.33:507][384]MaterialEditorStats: Texture samplers: 1/16
+[2020.06.18-02.29.10:814][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/jud" FILE="../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/HUD/jud.uasset" SILENT=true
+[2020.06.18-02.29.10:925][580]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/judB4EFC2FF4B97668F9378B595CCC50F8B.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/HUD/jud.uasset'
+[2020.06.18-02.29.10:952][580]AssetCheck: New page: Asset Save: jud
+[2020.06.18-02.29.10:952][580]LogContentValidation: Display: Validating Blueprint /Game/HUD/jud.jud
+[2020.06.18-02.29.14:259][776]BlueprintLog: New page: Compile jud
+[2020.06.18-02.29.14:618][776]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2020.06.18-02.29.38:023][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/jud" FILE="../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/HUD/jud.uasset" SILENT=true
+[2020.06.18-02.29.38:082][587]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/jud86D2C68A4F8A8573F3669EAF8D57E1E6.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/HUD/jud.uasset'
+[2020.06.18-02.29.38:103][587]AssetCheck: New page: Asset Save: jud
+[2020.06.18-02.29.38:103][587]LogContentValidation: Display: Validating Blueprint /Game/HUD/jud.jud
+[2020.06.18-02.29.39:026][639]BlueprintLog: New page: Compile jud
+[2020.06.18-02.29.39:414][639]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2020.06.18-02.30.15:503][711]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.06.18-02.30.16:069][711]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/try2-16B738948415403297C4E798168D666CB.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/try2-1.umap'
+[2020.06.18-02.30.16:118][711]LogFileHelpers: Saving map 'try2-1' took 0.669
+[2020.06.18-02.30.16:134][711]AssetCheck: New page: Asset Save: try2-1
+[2020.06.18-02.30.16:134][711]LogContentValidation: Display: Validating World /Game/try2-1.try2-1
+[2020.06.18-02.30.18:775][851]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2020.06.18-02.30.19:331][851]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/try2-11CD0A1AE4D940EAE788579B9880840DC.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/try2-1.umap'
+[2020.06.18-02.30.19:387][851]LogFileHelpers: Saving map 'try2-1' took 0.669
+[2020.06.18-02.30.19:411][851]AssetCheck: New page: Asset Save: try2-1
+[2020.06.18-02.30.19:411][851]LogContentValidation: Display: Validating World /Game/try2-1.try2-1
+[2020.06.18-02.30.21:206][938]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Interface5BCE13514CC8485B44EF3EB60FF0CD76.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/HUD/Interface.uasset'
+[2020.06.18-02.30.21:231][938]AssetCheck: New page: Asset Save: Interface
+[2020.06.18-02.30.21:231][938]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/Interface.Interface
+[2020.06.18-02.30.24:133][ 99]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.18-02.30.24:174][ 99]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.30.24:174][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.18-02.30.24:174][ 99]PIE: New page: PIE session: try2-1 (Jun 17, 2020, 6:30:24 PM)
+[2020.06.18-02.30.24:174][ 99]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_try2-1
+[2020.06.18-02.30.24:186][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011803s)
+[2020.06.18-02.30.24:187][ 99]LogAIModule: Creating AISystem for world try2-1
+[2020.06.18-02.30.24:187][ 99]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2020.06.18-02.30.24:188][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/try2-1.try2-1 to /Game/UEDPIE_0_try2-1.try2-1 (0.013343s)
+[2020.06.18-02.30.24:240][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.06.18-02.30.24:241][ 99]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.18-02.30.24:241][ 99]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.18-02.30.24:241][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.18-02.30.24:241][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.18-02.30.24:241][ 99]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.18-02.30.24:241][ 99]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.18-02.30.24:241][ 99]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.18-02.30.24:241][ 99]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.18-02.30.24:241][ 99]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.18-02.30.24:241][ 99]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.18-02.30.24:258][ 99]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.18-02.30.24:258][ 99]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.06.18-02.30.24:258][ 99]LogAudioMixer: Display: Is Default: Yes
+[2020.06.18-02.30.24:258][ 99]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.18-02.30.24:258][ 99]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.18-02.30.24:258][ 99]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.18-02.30.24:258][ 99]LogAudioMixer: Display: Channel Order:
+[2020.06.18-02.30.24:258][ 99]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.18-02.30.24:258][ 99]LogAudioMixer: Display: 1: FrontRight
+[2020.06.18-02.30.24:296][ 99]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.06.18-02.30.24:298][ 99]LogInit: FAudioDevice initialized.
+[2020.06.18-02.30.24:311][ 99]LogLoad: Game class is 'gamemode_C'
+[2020.06.18-02.30.24:317][ 99]LogWorld: Bringing World /Game/UEDPIE_0_try2-1.try2-1 up for play (max tick rate 60) at 2020.06.17-22.30.24
+[2020.06.18-02.30.24:317][ 99]LogWorld: Bringing up level for play took: 0.005185
+[2020.06.18-02.30.24:317][ 99]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.06.18-02.30.24:319][ 99]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.18-02.30.24:319][ 99]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.18-02.30.24:319][ 99]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.06.18-02.30.24:324][ 99]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.06.18-02.30.24:324][ 99]PIE: Play in editor start time for /Game/UEDPIE_0_try2-1 -0.837
+[2020.06.18-02.30.24:324][ 99]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.30.34:922][718]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.30.34:922][718]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.30.34:922][718]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.30.34:923][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.18-02.30.34:923][718]LogWorld: BeginTearingDown for /Game/UEDPIE_0_try2-1
+[2020.06.18-02.30.34:924][718]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.30.34:924][718]LogWorld: UWorld::CleanupWorld for try2-1, bSessionEnded=true, bCleanupResources=true
+[2020.06.18-02.30.34:925][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.18-02.30.35:001][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.18-02.30.35:001][718]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.30.35:010][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.18-02.30.35:056][718]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.30.35:061][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.18-02.30.35:066][718]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.06.18-02.30.35:091][719]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.06.18-02.31.33:226][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/jud" FILE="../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/HUD/jud.uasset" SILENT=true
+[2020.06.18-02.31.33:282][570]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/judE3A5EC264EF6026043D326B4972B6F9F.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/HUD/jud.uasset'
+[2020.06.18-02.31.33:307][570]AssetCheck: New page: Asset Save: jud
+[2020.06.18-02.31.33:307][570]LogContentValidation: Display: Validating Blueprint /Game/HUD/jud.jud
+[2020.06.18-02.31.41:876][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/jud" FILE="../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/HUD/jud.uasset" SILENT=true
+[2020.06.18-02.31.41:932][ 67]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/jud8FA869244F4EE4972B5D9DBD8B28E20F.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/HUD/jud.uasset'
+[2020.06.18-02.31.41:952][ 67]AssetCheck: New page: Asset Save: jud
+[2020.06.18-02.31.41:952][ 67]LogContentValidation: Display: Validating Blueprint /Game/HUD/jud.jud
+[2020.06.18-02.31.51:676][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.06.18-02.31.52:241][626]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/try2-16E20B00344902589100B9A9189CE7B25.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/try2-1.umap'
+[2020.06.18-02.31.52:299][626]LogFileHelpers: Saving map 'try2-1' took 0.674
+[2020.06.18-02.31.52:319][626]AssetCheck: New page: Asset Save: try2-1
+[2020.06.18-02.31.52:319][626]LogContentValidation: Display: Validating World /Game/try2-1.try2-1
+[2020.06.18-02.31.52:862][649]BlueprintLog: New page: Compile try2-1
+[2020.06.18-02.31.53:318][649]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2020.06.18-02.31.57:372][866]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.18-02.31.57:409][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.31.57:409][866]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.06.18-02.31.57:410][866]LogPlayLevel: [PlayLevel] Compiling jud before play...
+[2020.06.18-02.31.57:795][866]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.06.18-02.31.57:796][866]LogPlayLevel: PlayLevel: Blueprint regeneration took 386 ms (1 blueprints)
+[2020.06.18-02.31.57:796][866]PIE: New page: PIE session: try2-1 (Jun 17, 2020, 6:31:57 PM)
+[2020.06.18-02.31.57:796][866]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_try2-1
+[2020.06.18-02.31.57:809][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013124s)
+[2020.06.18-02.31.57:810][866]LogAIModule: Creating AISystem for world try2-1
+[2020.06.18-02.31.57:811][866]LogPlayLevel: PIE: World Init took: (0.001166s)
+[2020.06.18-02.31.57:811][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/try2-1.try2-1 to /Game/UEDPIE_0_try2-1.try2-1 (0.014481s)
+[2020.06.18-02.31.57:860][866]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.06.18-02.31.57:861][866]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.18-02.31.57:861][866]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.18-02.31.57:861][866]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.18-02.31.57:861][866]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.18-02.31.57:861][866]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.18-02.31.57:861][866]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.18-02.31.57:861][866]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.18-02.31.57:861][866]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.18-02.31.57:861][866]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.18-02.31.57:861][866]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.18-02.31.57:878][866]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.18-02.31.57:878][866]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.06.18-02.31.57:878][866]LogAudioMixer: Display: Is Default: Yes
+[2020.06.18-02.31.57:878][866]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.18-02.31.57:878][866]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.18-02.31.57:878][866]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.18-02.31.57:878][866]LogAudioMixer: Display: Channel Order:
+[2020.06.18-02.31.57:878][866]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.18-02.31.57:878][866]LogAudioMixer: Display: 1: FrontRight
+[2020.06.18-02.31.57:910][866]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.06.18-02.31.57:912][866]LogInit: FAudioDevice initialized.
+[2020.06.18-02.31.57:919][866]LogLoad: Game class is 'gamemode_C'
+[2020.06.18-02.31.57:923][866]LogWorld: Bringing World /Game/UEDPIE_0_try2-1.try2-1 up for play (max tick rate 60) at 2020.06.17-22.31.57
+[2020.06.18-02.31.57:924][866]LogWorld: Bringing up level for play took: 0.003675
+[2020.06.18-02.31.57:924][866]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.06.18-02.31.57:926][866]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.18-02.31.57:926][866]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.18-02.31.57:926][866]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.06.18-02.31.57:987][866]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.06.18-02.31.57:988][866]PIE: Play in editor start time for /Game/UEDPIE_0_try2-1 0.827
+[2020.06.18-02.31.57:988][866]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.32.13:375][766]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.32.13:375][766]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.32.13:375][766]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.32.13:379][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.18-02.32.13:379][766]LogWorld: BeginTearingDown for /Game/UEDPIE_0_try2-1
+[2020.06.18-02.32.13:380][766]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.32.13:381][766]LogWorld: UWorld::CleanupWorld for try2-1, bSessionEnded=true, bCleanupResources=true
+[2020.06.18-02.32.13:381][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.18-02.32.13:501][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.18-02.32.13:502][766]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.32.13:512][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.18-02.32.13:570][766]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.32.13:578][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.18-02.32.13:586][766]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2020.06.18-02.32.13:611][767]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.06.18-02.32.33:362][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.06.18-02.32.33:917][619]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/try2-10D0C77324E97EBB2B69E5DA1DCCE6E91.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/try2-1.umap'
+[2020.06.18-02.32.33:962][619]LogFileHelpers: Saving map 'try2-1' took 0.651
+[2020.06.18-02.32.33:978][619]AssetCheck: New page: Asset Save: try2-1
+[2020.06.18-02.32.33:978][619]LogContentValidation: Display: Validating World /Game/try2-1.try2-1
+[2020.06.18-02.32.43:761][178]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.18-02.32.43:797][178]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.32.43:797][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.18-02.32.43:798][178]PIE: New page: PIE session: try2-1 (Jun 17, 2020, 6:32:43 PM)
+[2020.06.18-02.32.43:798][178]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_try2-1
+[2020.06.18-02.32.43:811][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012999s)
+[2020.06.18-02.32.43:812][178]LogAIModule: Creating AISystem for world try2-1
+[2020.06.18-02.32.43:812][178]LogPlayLevel: PIE: World Init took: (0.001259s)
+[2020.06.18-02.32.43:812][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/try2-1.try2-1 to /Game/UEDPIE_0_try2-1.try2-1 (0.014414s)
+[2020.06.18-02.32.43:917][178]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2020.06.18-02.32.43:918][178]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.18-02.32.43:918][178]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.18-02.32.43:918][178]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.18-02.32.43:918][178]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.18-02.32.43:918][178]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.18-02.32.43:918][178]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.18-02.32.43:918][178]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.18-02.32.43:918][178]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.18-02.32.43:918][178]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.18-02.32.43:918][178]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.18-02.32.43:936][178]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.18-02.32.43:936][178]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.06.18-02.32.43:936][178]LogAudioMixer: Display: Is Default: Yes
+[2020.06.18-02.32.43:936][178]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.18-02.32.43:936][178]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.18-02.32.43:936][178]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.18-02.32.43:936][178]LogAudioMixer: Display: Channel Order:
+[2020.06.18-02.32.43:936][178]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.18-02.32.43:936][178]LogAudioMixer: Display: 1: FrontRight
+[2020.06.18-02.32.43:972][178]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.06.18-02.32.43:975][178]LogInit: FAudioDevice initialized.
+[2020.06.18-02.32.43:984][178]LogLoad: Game class is 'gamemode_C'
+[2020.06.18-02.32.43:988][178]LogWorld: Bringing World /Game/UEDPIE_0_try2-1.try2-1 up for play (max tick rate 60) at 2020.06.17-22.32.43
+[2020.06.18-02.32.43:989][178]LogWorld: Bringing up level for play took: 0.003544
+[2020.06.18-02.32.43:989][178]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.06.18-02.32.43:991][178]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.18-02.32.43:991][178]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.18-02.32.43:991][178]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.06.18-02.32.44:017][178]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.06.18-02.32.44:017][178]PIE: Play in editor start time for /Game/UEDPIE_0_try2-1 0.856
+[2020.06.18-02.32.44:018][178]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.32.58:155][  6]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.32.58:155][  6]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.32.58:155][  6]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.32.58:156][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.18-02.32.58:156][  6]LogWorld: BeginTearingDown for /Game/UEDPIE_0_try2-1
+[2020.06.18-02.32.58:156][  6]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.32.58:156][  6]LogWorld: UWorld::CleanupWorld for try2-1, bSessionEnded=true, bCleanupResources=true
+[2020.06.18-02.32.58:157][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.18-02.32.58:246][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.18-02.32.58:247][  6]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.32.58:258][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.18-02.32.58:310][  6]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.32.58:316][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.18-02.32.58:322][  6]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.06.18-02.32.58:347][  7]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.06.18-02.33.40:142][183]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Interface8EC237F14007F04BC95F5FB68D89F264.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/HUD/Interface.uasset'
+[2020.06.18-02.33.40:164][183]AssetCheck: New page: Asset Save: Interface
+[2020.06.18-02.33.40:164][183]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/Interface.Interface
+[2020.06.18-02.33.40:692][213]BlueprintLog: New page: Compile Interface
+[2020.06.18-02.33.40:757][213]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2020.06.18-02.33.45:061][453]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.18-02.33.45:100][453]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.33.45:100][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.18-02.33.45:100][453]PIE: New page: PIE session: try2-1 (Jun 17, 2020, 6:33:45 PM)
+[2020.06.18-02.33.45:100][453]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_try2-1
+[2020.06.18-02.33.45:114][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013893s)
+[2020.06.18-02.33.45:116][453]LogAIModule: Creating AISystem for world try2-1
+[2020.06.18-02.33.45:116][453]LogPlayLevel: PIE: World Init took: (0.001333s)
+[2020.06.18-02.33.45:116][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/try2-1.try2-1 to /Game/UEDPIE_0_try2-1.try2-1 (0.015379s)
+[2020.06.18-02.33.45:166][453]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.06.18-02.33.45:166][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.18-02.33.45:166][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.18-02.33.45:166][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.18-02.33.45:167][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.18-02.33.45:167][453]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.18-02.33.45:167][453]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.18-02.33.45:167][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.18-02.33.45:167][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.18-02.33.45:167][453]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.18-02.33.45:167][453]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.18-02.33.45:182][453]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.18-02.33.45:182][453]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.06.18-02.33.45:182][453]LogAudioMixer: Display: Is Default: Yes
+[2020.06.18-02.33.45:182][453]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.18-02.33.45:182][453]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.18-02.33.45:183][453]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.18-02.33.45:183][453]LogAudioMixer: Display: Channel Order:
+[2020.06.18-02.33.45:183][453]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.18-02.33.45:183][453]LogAudioMixer: Display: 1: FrontRight
+[2020.06.18-02.33.45:214][453]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.06.18-02.33.45:216][453]LogInit: FAudioDevice initialized.
+[2020.06.18-02.33.45:228][453]LogLoad: Game class is 'gamemode_C'
+[2020.06.18-02.33.45:232][453]LogWorld: Bringing World /Game/UEDPIE_0_try2-1.try2-1 up for play (max tick rate 60) at 2020.06.17-22.33.45
+[2020.06.18-02.33.45:232][453]LogWorld: Bringing up level for play took: 0.003178
+[2020.06.18-02.33.45:232][453]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.06.18-02.33.45:235][453]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.18-02.33.45:235][453]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.06.18-02.33.45:235][453]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.06.18-02.33.45:240][453]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.06.18-02.33.45:240][453]PIE: Play in editor start time for /Game/UEDPIE_0_try2-1 0.079
+[2020.06.18-02.33.45:240][453]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.33.59:042][264]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.33.59:045][264]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.33.59:045][264]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.33.59:046][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.18-02.33.59:046][264]LogWorld: BeginTearingDown for /Game/UEDPIE_0_try2-1
+[2020.06.18-02.33.59:046][264]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.33.59:046][264]LogWorld: UWorld::CleanupWorld for try2-1, bSessionEnded=true, bCleanupResources=true
+[2020.06.18-02.33.59:048][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.18-02.33.59:071][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.18-02.33.59:072][264]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/try2-1.try2-1_C' with ClassGeneratedBy '/Game/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.06.18-02.33.59:083][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.18-02.33.59:131][264]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.33.59:137][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.18-02.33.59:143][264]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.06.18-02.33.59:167][265]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.06.18-02.34.32:916][ 76]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.34.33:209][ 77]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.34.33:964][ 79]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.06.18-02.34.43:136][144]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (iso-64x64-outside_TileMap2)
+[2020.06.18-02.34.46:021][206]LogEditorViewport: Clicking Background
+[2020.06.18-02.36.12:605][696]LogSlate: Window 'Message' being destroyed
+[2020.06.18-02.36.13:374][696]LogMaterial: Display: Missing cached shader map for material Health, compiling. 
+[2020.06.18-02.36.13:401][696]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.06.18-02.36.13:401][696]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2020.06.18-02.36.13:401][696]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.06.18-02.36.13:462][696]LogMaterial: Display: Missing cached shader map for material Health, compiling. 
+[2020.06.18-02.36.13:588][696]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2020.06.18-02.36.13:638][696]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.06.18-02.36.13:699][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.06.18-02.36.13:790][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.06.18-02.36.15:636][696]LogSlate: Window 'Save Content' being destroyed
+[2020.06.18-02.36.15:773][696]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/gamemode3CAA38CF4CDA9D9E032293B680EA0080.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/Blueprints/gamemode.uasset'
+[2020.06.18-02.36.21:989][696]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2020.06.18-02.36.21:989][696]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2020.06.18-02.36.21:989][696]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.06.18-02.36.21:989][696]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2020.06.18-02.36.21:989][696]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.06.18-02.36.21:989][696]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2020.06.18-02.36.21:989][696]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.06.18-02.36.21:989][696]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2020.06.18-02.36.21:990][696]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.06.18-02.36.21:990][696]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.06.18-02.36.21:990][696]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.06.18-02.36.22:246][696]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Health37DB3F34460A97D8833BD8861119A648.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/HUD/Health.uasset'
+[2020.06.18-02.36.22:429][696]LogSlate: Window 'Try2 - Unreal Editor' being destroyed
+[2020.06.18-02.36.23:074][696]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.06.18-02.36.23:074][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.18-02.36.23:312][696]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.06.18-02.36.23:312][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.18-02.36.23:354][696]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.06.18-02.36.23:354][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.18-02.36.23:522][696]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.06.18-02.36.23:522][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.18-02.36.23:654][696]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.06.18-02.36.23:654][696]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.06.18-02.36.23:654][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.18-02.36.24:194][696]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.18-02.36.24:194][696]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/gamemode.gamemode
+[2020.06.18-02.36.24:194][696]LogContentValidation: Display: Validating Material /Game/HUD/Health.Health
+[2020.06.18-02.36.24:229][697]Cmd: QUIT_EDITOR
+[2020.06.18-02.36.24:229][697]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.06.18-02.36.24:290][697]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.06.18-02.36.24:290][697]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.18-02.36.25:144][697]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.06.18-02.36.25:557][697]LogExit: Preparing to exit.
+[2020.06.18-02.36.26:376][697]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.06.18-02.36.26:381][697]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.06.18-02.36.26:569][697]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.06.18-02.36.27:393][697]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.06.18-02.36.27:393][697]LogExit: Editor shut down
+[2020.06.18-02.36.27:397][697]LogExit: Transaction tracking system shut down
+[2020.06.18-02.36.30:670][697]LogExit: Object subsystem successfully closed.
+[2020.06.18-02.36.30:782][697]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.06.18-02.36.30:830][697]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (710)
+[2020.06.18-02.36.30:830][697]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (708)
+[2020.06.18-02.36.30:830][697]LogModuleManager: Shutting down and abandoning module Voice (706)
+[2020.06.18-02.36.30:830][697]LogModuleManager: Shutting down and abandoning module SequencerWidgets (704)
+[2020.06.18-02.36.30:830][697]LogModuleManager: Shutting down and abandoning module BlueprintGraph (702)
+[2020.06.18-02.36.30:831][697]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (700)
+[2020.06.18-02.36.30:831][697]LogModuleManager: Shutting down and abandoning module SceneOutliner (698)
+[2020.06.18-02.36.30:831][697]LogModuleManager: Shutting down and abandoning module AddContentDialog (696)
+[2020.06.18-02.36.31:106][697]LogModuleManager: Shutting down and abandoning module WidgetCarousel (695)
+[2020.06.18-02.36.31:106][697]LogModuleManager: Shutting down and abandoning module EditorWidgets (692)
+[2020.06.18-02.36.31:106][697]LogModuleManager: Shutting down and abandoning module CollectionManager (690)
+[2020.06.18-02.36.31:106][697]LogModuleManager: Shutting down and abandoning module StatsViewer (688)
+[2020.06.18-02.36.31:107][697]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (686)
+[2020.06.18-02.36.31:107][697]LogModuleManager: Shutting down and abandoning module FoliageEdit (684)
+[2020.06.18-02.36.31:107][697]LogModuleManager: Shutting down and abandoning module LandscapeEditor (682)
+[2020.06.18-02.36.31:108][697]LogModuleManager: Shutting down and abandoning module MeshPaintMode (680)
+[2020.06.18-02.36.31:108][697]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (678)
+[2020.06.18-02.36.31:108][697]LogModuleManager: Shutting down and abandoning module ActorPickerMode (676)
+[2020.06.18-02.36.31:108][697]LogModuleManager: Shutting down and abandoning module GeometryMode (674)
+[2020.06.18-02.36.31:108][697]LogModuleManager: Shutting down and abandoning module TextureAlignMode (672)
+[2020.06.18-02.36.31:108][697]LogModuleManager: Shutting down and abandoning module BspMode (670)
+[2020.06.18-02.36.31:108][697]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (668)
+[2020.06.18-02.36.31:108][697]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (666)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module AutomationWorker (664)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module SteamVREditor (662)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module OculusMR (660)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (658)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (656)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (654)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module PlacementMode (653)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module MaterialEditor (652)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (648)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (646)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (644)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (642)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (640)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module WebMMedia (638)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (636)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (634)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module SequenceRecorder (633)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (630)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (628)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (626)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (624)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (622)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (620)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (618)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (616)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (614)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (612)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module CharacterAI (610)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module SmartSnapping (608)
+[2020.06.18-02.36.31:109][697]LogModuleManager: Shutting down and abandoning module SessionServices (606)
+[2020.06.18-02.36.31:110][697]LogModuleManager: Shutting down and abandoning module MeshPaint (604)
+[2020.06.18-02.36.31:110][697]LogModuleManager: Shutting down and abandoning module ViewportSnapping (602)
+[2020.06.18-02.36.31:110][697]LogModuleManager: Shutting down and abandoning module ViewportInteraction (600)
+[2020.06.18-02.36.31:110][697]LogModuleManager: Shutting down and abandoning module ClothPainter (598)
+[2020.06.18-02.36.31:110][697]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (597)
+[2020.06.18-02.36.31:110][697]LogModuleManager: Shutting down and abandoning module LogVisualizer (594)
+[2020.06.18-02.36.31:110][697]LogModuleManager: Shutting down and abandoning module IntroTutorials (592)
+[2020.06.18-02.36.31:110][697]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (591)
+[2020.06.18-02.36.31:111][697]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (588)
+[2020.06.18-02.36.31:111][697]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (586)
+[2020.06.18-02.36.31:111][697]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (584)
+[2020.06.18-02.36.31:111][697]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (583)
+[2020.06.18-02.36.32:873][697]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (580)
+[2020.06.18-02.36.32:873][697]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (578)
+[2020.06.18-02.36.32:874][697]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (576)
+[2020.06.18-02.36.32:875][697]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (574)
+[2020.06.18-02.36.32:875][697]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (572)
+[2020.06.18-02.36.32:875][697]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (570)
+[2020.06.18-02.36.32:876][697]LogModuleManager: Shutting down and abandoning module InputBindingEditor (568)
+[2020.06.18-02.36.32:876][697]LogModuleManager: Shutting down and abandoning module MergeActors (566)
+[2020.06.18-02.36.32:876][697]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (564)
+[2020.06.18-02.36.32:876][697]LogModuleManager: Shutting down and abandoning module LocalizationService (563)
+[2020.06.18-02.36.32:876][697]LogModuleManager: Shutting down and abandoning module HardwareTargeting (560)
+[2020.06.18-02.36.32:876][697]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (558)
+[2020.06.18-02.36.32:876][697]LogModuleManager: Shutting down and abandoning module UndoHistory (556)
+[2020.06.18-02.36.32:876][697]LogModuleManager: Shutting down and abandoning module XmlParser (554)
+[2020.06.18-02.36.32:876][697]LogModuleManager: Shutting down and abandoning module Blutility (552)
+[2020.06.18-02.36.32:876][697]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (550)
+[2020.06.18-02.36.32:877][697]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (549)
+[2020.06.18-02.36.32:947][697]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (546)
+[2020.06.18-02.36.32:947][697]LogModuleManager: Shutting down and abandoning module SettingsEditor (544)
+[2020.06.18-02.36.32:947][697]LogModuleManager: Shutting down and abandoning module ProjectLauncher (542)
+[2020.06.18-02.36.32:948][697]LogModuleManager: Shutting down and abandoning module SessionFrontend (540)
+[2020.06.18-02.36.32:948][697]LogModuleManager: Shutting down and abandoning module ProfilerClient (538)
+[2020.06.18-02.36.32:948][697]LogModuleManager: Shutting down and abandoning module DeviceManager (536)
+[2020.06.18-02.36.32:948][697]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (535)
+[2020.06.18-02.36.32:981][697]LogModuleManager: Shutting down and abandoning module AutomationController (532)
+[2020.06.18-02.36.32:981][697]LogModuleManager: Shutting down and abandoning module AutomationWindow (530)
+[2020.06.18-02.36.32:981][697]LogModuleManager: Shutting down and abandoning module Layers (528)
+[2020.06.18-02.36.32:981][697]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (526)
+[2020.06.18-02.36.32:981][697]LogModuleManager: Shutting down and abandoning module DetailCustomizations (524)
+[2020.06.18-02.36.32:981][697]LogModuleManager: Shutting down and abandoning module PackagesDialog (522)
+[2020.06.18-02.36.32:982][697]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (520)
+[2020.06.18-02.36.32:982][697]LogModuleManager: Shutting down and abandoning module Persona (518)
+[2020.06.18-02.36.32:982][697]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (517)
+[2020.06.18-02.36.32:982][697]LogModuleManager: Shutting down and abandoning module AnimGraph (515)
+[2020.06.18-02.36.32:982][697]LogModuleManager: Shutting down and abandoning module Kismet (512)
+[2020.06.18-02.36.33:259][697]LogModuleManager: Shutting down and abandoning module KismetWidgets (511)
+[2020.06.18-02.36.33:259][697]LogModuleManager: Shutting down and abandoning module GraphEditor (508)
+[2020.06.18-02.36.33:259][697]LogModuleManager: Shutting down and abandoning module StructViewer (506)
+[2020.06.18-02.36.33:259][697]LogModuleManager: Shutting down and abandoning module ClassViewer (504)
+[2020.06.18-02.36.33:264][697]LogModuleManager: Shutting down and abandoning module Toolbox (502)
+[2020.06.18-02.36.33:264][697]LogModuleManager: Shutting down and abandoning module ModuleUI (500)
+[2020.06.18-02.36.33:264][697]LogModuleManager: Shutting down and abandoning module OutputLog (498)
+[2020.06.18-02.36.33:409][697]LogModuleManager: Shutting down and abandoning module GammaUI (496)
+[2020.06.18-02.36.33:409][697]LogModuleManager: Shutting down and abandoning module Documentation (494)
+[2020.06.18-02.36.33:519][697]LogModuleManager: Shutting down and abandoning module ToolMenus (492)
+[2020.06.18-02.36.33:519][697]LogModuleManager: Shutting down and abandoning module LiveCoding (490)
+[2020.06.18-02.36.33:519][697]LogModuleManager: Shutting down and abandoning module LevelSequence (488)
+[2020.06.18-02.36.33:519][697]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (486)
+[2020.06.18-02.36.33:519][697]LogModuleManager: Shutting down and abandoning module MovieScene (484)
+[2020.06.18-02.36.33:519][697]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (482)
+[2020.06.18-02.36.33:519][697]LogModuleManager: Shutting down and abandoning module LauncherPlatform (480)
+[2020.06.18-02.36.33:519][697]LogModuleManager: Shutting down and abandoning module AnalyticsET (478)
+[2020.06.18-02.36.33:519][697]LogModuleManager: Shutting down and abandoning module PortalServices (476)
+[2020.06.18-02.36.33:519][697]LogModuleManager: Shutting down and abandoning module PortalRpc (474)
+[2020.06.18-02.36.33:519][697]LogModuleManager: Shutting down and abandoning module MessagingRpc (472)
+[2020.06.18-02.36.33:519][697]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (470)
+[2020.06.18-02.36.33:519][697]LogModuleManager: Shutting down and abandoning module AIModule (468)
+[2020.06.18-02.36.33:519][697]LogModuleManager: Shutting down and abandoning module GameplayDebugger (467)
+[2020.06.18-02.36.33:519][697]LogModuleManager: Shutting down and abandoning module AITestSuite (465)
+[2020.06.18-02.36.33:520][697]LogModuleManager: Shutting down and abandoning module NavigationSystem (463)
+[2020.06.18-02.36.33:520][697]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (460)
+[2020.06.18-02.36.33:526][697]LogModuleManager: Shutting down and abandoning module ProfilerService (458)
+[2020.06.18-02.36.33:720][697]LogModuleManager: Shutting down and abandoning module TaskGraph (456)
+[2020.06.18-02.36.33:720][697]LogModuleManager: Shutting down and abandoning module ScreenshotTools (454)
+[2020.06.18-02.36.33:720][697]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (452)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (450)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module OculusEditor (448)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module OculusInput (446)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (444)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module EditableMesh (442)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (440)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module CableComponent (438)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module AudioCapture (436)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (435)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module AssetTags (432)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (430)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (428)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module AppleImageUtils (426)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module AndroidPermission (424)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (422)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (420)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module MediaCompositing (418)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module ImgMedia (416)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (414)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (412)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (410)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (408)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (406)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module BackChannel (404)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (402)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module AutomationUtils (400)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module AlembicImporter (398)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module AlembicLibrary (397)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module GeometryCache (396)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (395)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (390)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (388)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (386)
+[2020.06.18-02.36.33:721][697]LogModuleManager: Shutting down and abandoning module PluginBrowser (384)
+[2020.06.18-02.36.33:722][697]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (382)
+[2020.06.18-02.36.33:722][697]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (380)
+[2020.06.18-02.36.33:722][697]LogModuleManager: Shutting down and abandoning module CurveEditorTools (378)
+[2020.06.18-02.36.33:722][697]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (376)
+[2020.06.18-02.36.33:722][697]LogModuleManager: Shutting down and abandoning module CryptoKeys (374)
+[2020.06.18-02.36.33:722][697]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (372)
+[2020.06.18-02.36.33:722][697]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (370)
+[2020.06.18-02.36.33:722][697]LogModuleManager: Shutting down and abandoning module UObjectPlugin (368)
+[2020.06.18-02.36.33:722][697]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (366)
+[2020.06.18-02.36.33:722][697]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (364)
+[2020.06.18-02.36.33:722][697]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (362)
+[2020.06.18-02.36.33:722][697]LogModuleManager: Shutting down and abandoning module GitSourceControl (360)
+[2020.06.18-02.36.33:722][697]LogModuleManager: Shutting down and abandoning module SourceControl (359)
+[2020.06.18-02.36.33:722][697]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (356)
+[2020.06.18-02.36.33:722][697]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (354)
+[2020.06.18-02.36.33:722][697]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (352)
+[2020.06.18-02.36.33:723][697]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (350)
+[2020.06.18-02.36.33:723][697]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (348)
+[2020.06.18-02.36.33:723][697]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (346)
+[2020.06.18-02.36.33:723][697]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (344)
+[2020.06.18-02.36.33:723][697]LogModuleManager: Shutting down and abandoning module Paper2DEditor (342)
+[2020.06.18-02.36.33:723][697]LogModuleManager: Shutting down and abandoning module SignificanceManager (340)
+[2020.06.18-02.36.33:723][697]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (338)
+[2020.06.18-02.36.33:723][697]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (336)
+[2020.06.18-02.36.33:723][697]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (332)
+[2020.06.18-02.36.33:723][697]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (330)
+[2020.06.18-02.36.33:723][697]LogModuleManager: Shutting down and abandoning module ApexDestruction (328)
+[2020.06.18-02.36.33:723][697]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.06.18-02.36.33:723][697]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.06.18-02.36.33:825][697]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.06.18-02.36.33:926][697]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.06.18-02.36.33:926][697]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.06.18-02.36.33:926][697]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.06.18-02.36.33:926][697]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.06.18-02.36.33:926][697]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.06.18-02.36.33:926][697]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.06.18-02.36.33:926][697]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.06.18-02.36.33:926][697]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.06.18-02.36.33:926][697]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.06.18-02.36.33:926][697]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.06.18-02.36.33:984][697]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.06.18-02.36.33:984][697]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.06.18-02.36.33:984][697]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.06.18-02.36.33:984][697]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.06.18-02.36.33:984][697]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.06.18-02.36.33:985][697]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.06.18-02.36.33:985][697]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.06.18-02.36.33:985][697]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.06.18-02.36.33:985][697]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.06.18-02.36.33:985][697]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.06.18-02.36.33:998][697]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.06.18-02.36.33:998][697]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.06.18-02.36.33:999][697]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.06.18-02.36.33:999][697]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.06.18-02.36.34:000][697]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.06.18-02.36.34:008][697]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.06.18-02.36.34:008][697]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.06.18-02.36.34:008][697]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.06.18-02.36.34:008][697]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.06.18-02.36.34:008][697]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.06.18-02.36.34:008][697]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.06.18-02.36.34:008][697]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.06.18-02.36.34:008][697]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.06.18-02.36.34:009][697]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.06.18-02.36.34:009][697]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.06.18-02.36.34:009][697]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.06.18-02.36.34:009][697]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.06.18-02.36.34:009][697]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.06.18-02.36.34:009][697]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.06.18-02.36.34:009][697]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.06.18-02.36.34:009][697]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.06.18-02.36.34:009][697]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.06.18-02.36.34:009][697]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.06.18-02.36.34:009][697]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.06.18-02.36.34:009][697]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.06.18-02.36.34:009][697]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.06.18-02.36.34:009][697]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.06.18-02.36.34:010][697]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.06.18-02.36.34:010][697]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.06.18-02.36.34:010][697]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.06.18-02.36.34:010][697]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.06.18-02.36.34:010][697]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.06.18-02.36.34:010][697]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.06.18-02.36.34:010][697]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.06.18-02.36.34:010][697]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.06.18-02.36.34:010][697]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.06.18-02.36.34:010][697]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.06.18-02.36.34:010][697]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.06.18-02.36.34:010][697]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.06.18-02.36.34:010][697]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.06.18-02.36.34:010][697]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.06.18-02.36.34:010][697]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.06.18-02.36.34:010][697]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.06.18-02.36.34:147][697]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.06.18-02.36.34:147][697]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.06.18-02.36.34:147][697]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.06.18-02.36.34:147][697]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.06.18-02.36.34:147][697]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.06.18-02.36.34:147][697]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.06.18-02.36.34:147][697]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.06.18-02.36.34:147][697]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.06.18-02.36.34:147][697]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.06.18-02.36.34:147][697]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.06.18-02.36.34:147][697]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.06.18-02.36.34:147][697]LogDerivedDataCache: Shutdown
+[2020.06.18-02.36.34:147][697]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.06.18-02.36.34:147][697]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.06.18-02.36.34:171][697]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.06.18-02.36.34:171][697]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.06.18-02.36.34:171][697]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.06.18-02.36.34:171][697]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.06.18-02.36.34:172][697]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.06.18-02.36.34:172][697]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.06.18-02.36.34:172][697]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.06.18-02.36.34:172][697]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.06.18-02.36.34:172][697]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.06.18-02.36.34:173][697]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.06.18-02.36.34:173][697]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.06.18-02.36.34:173][697]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.06.18-02.36.34:173][697]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.06.18-02.36.34:173][697]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.06.18-02.36.34:173][697]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.06.18-02.36.34:173][697]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.06.18-02.36.34:174][697]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.06.18-02.36.34:174][697]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.06.18-02.36.34:174][697]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.06.18-02.36.34:174][697]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.06.18-02.36.34:212][697]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.06.18-02.36.34:230][697]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.06.18-02.36.34:230][697]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.06.18-02.36.34:231][697]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.06.18-02.36.34:231][697]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.06.18-02.36.34:231][697]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.06.18-02.36.34:231][697]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.06.18-02.36.34:231][697]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.06.18-02.36.34:231][697]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.06.18-02.36.34:252][697]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.06.18-02.36.34:450][697]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.06.18-02.36.34:450][697]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.06.18-02.36.34:450][697]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.06.18-02.36.34:450][697]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.06.18-02.36.34:452][697]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.06.18-02.36.34:452][697]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.06.18-02.36.34:452][697]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.06.18-02.36.34:452][697]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.06.18-02.36.34:452][697]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.06.18-02.36.34:452][697]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.06.18-02.36.34:452][697]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.06.18-02.36.34:452][697]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.06.18-02.36.34:452][697]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.06.18-02.36.34:452][697]LogHMD: Freeing OpenVRDLLHandle.
+[2020.06.18-02.36.34:452][697]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.06.18-02.36.34:452][697]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.06.18-02.36.34:452][697]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.06.18-02.36.34:452][697]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.06.18-02.36.34:452][697]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.06.18-02.36.34:454][697]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.06.18-02.36.34:454][697]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.06.18-02.36.34:469][697]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.06.18-02.36.34:469][697]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.06.18-02.36.34:469][697]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3B117535-4218-0B7E-C252-04A7BF86D61F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=a312687f43dbe851dea01ba50be59701%7C3c85aff0eb4d4184aec065d645d20b8a%7C0efe2469-d861-4056-ac92-ea66a7ab38bd&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.06.18-02.36.34:479][697]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.06.18-02.36.34:482][697]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.06.18-02.36.34:485][697]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.06.18-02.36.34:486][697]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.06.18-02.36.34:486][697]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.06.18-02.36.34:486][697]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.06.18-02.36.34:487][697]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.06.18-02.36.34:487][697]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.06.18-02.36.34:487][697]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.06.18-02.36.34:487][697]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.06.18-02.36.34:487][697]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.06.18-02.36.34:487][697]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.06.18-02.36.34:488][697]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.06.18-02.36.34:488][697]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.06.18-02.36.34:488][697]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.06.18-02.36.34:489][697]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.06.18-02.36.34:489][697]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.06.18-02.36.34:489][697]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.06.18-02.36.34:509][697]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.06.18-02.36.34:509][697]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.06.18-02.36.34:509][697]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.06.18-02.36.34:509][697]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.06.18-02.36.34:509][697]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.06.18-02.36.34:509][697]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.06.18-02.36.34:509][697]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.06.18-02.36.34:509][697]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.06.18-02.36.34:510][697]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.06.18-02.36.34:510][697]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.06.18-02.36.34:510][697]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.06.18-02.36.34:510][697]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.06.18-02.36.34:526][697]LogD3D11RHI: Shutdown
+[2020.06.18-02.36.34:526][697]LogD3D11RHI: CleanupD3DDevice
+[2020.06.18-02.36.34:572][697]LogExit: Exiting.
+[2020.06.18-02.36.34:667][697]Log file closed, 06/17/20 22:36:34
