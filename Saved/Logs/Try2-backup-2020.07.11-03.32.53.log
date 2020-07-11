@@ -1,0 +1,1176 @@
+﻿Log file open, 07/10/20 20:48:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Try2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.416316
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 520
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=Zaeryum -epicuserid=3c85aff0eb4d4184aec065d645d20b8a -epiclocale=es-MX
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.11-00.48.41:629][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.11-00.48.41:629][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.11-00.48.41:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Engine.ini]
+[2020.07.11-00.48.41:629][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.11-00.48.41:629][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.07.11-00.48.41:629][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.07.11-00.48.41:630][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.07.11-00.48.41:631][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Engine.ini]
+[2020.07.11-00.48.41:632][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Engine.ini]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Engine.ini]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.11-00.48.41:632][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.11-00.48.41:633][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.11-00.48.41:633][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.11-00.48.41:633][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Engine.ini]
+[2020.07.11-00.48.41:633][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Engine.ini]
+[2020.07.11-00.48.41:637][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.11-00.48.41:637][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.11-00.48.41:638][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-00.48.41:638][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.11-00.48.41:639][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.11-00.48.41:640][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.11-00.48.41:640][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.11-00.48.41:640][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.11-00.48.41:640][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-00.48.41:640][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.11-00.48.41:640][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.11-00.48.41:640][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-00.48.41:640][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.11-00.48.41:640][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.11-00.48.41:640][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.11-00.48.41:640][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.11-00.48.41:640][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.11-00.48.41:647][  0]LogHAL: Display: Platform has ~ 12 GB [12769460224 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.11-00.48.41:647][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.11-00.48.41:647][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.11-00.48.41:647][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.11-00.48.41:648][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.11-00.48.41:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.11-00.48.41:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.11-00.48.41:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.11-00.48.41:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.11-00.48.41:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.11-00.48.41:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.11-00.48.41:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.11-00.48.41:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.11-00.48.41:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.11-00.48.41:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.11-00.48.41:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.11-00.48.41:649][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-00.48.41:649][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.11-00.48.41:649][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.11-00.48.41:649][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.11-00.48.41:649][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.11-00.48.41:649][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.11-00.48.41:649][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.11-00.48.41:649][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.11-00.48.41:650][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.11-00.48.41:650][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.11-00.48.41:650][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Config/Windows/Engine.ini]
+[2020.07.11-00.48.41:650][  0]LogInit: Computer: LAPTOP-NGSESA3A
+[2020.07.11-00.48.41:650][  0]LogInit: User: Gabriel
+[2020.07.11-00.48.41:650][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.07.11-00.48.41:650][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.11-00.48.41:650][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2020.07.11-00.48.41:650][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.11-00.48.41:650][  0]LogMemory: Process Physical Memory: 106.42 MB used, 106.43 MB peak
+[2020.07.11-00.48.41:650][  0]LogMemory: Process Virtual Memory: 101.90 MB used, 101.90 MB peak
+[2020.07.11-00.48.41:651][  0]LogMemory: Physical Memory: 6956.23 MB used,  5221.68 MB free, 12177.91 MB total
+[2020.07.11-00.48.41:651][  0]LogMemory: Virtual Memory: 5096.96 MB used,  134212632.00 MB free, 134217728.00 MB total
+[2020.07.11-00.48.41:658][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.11-00.48.41:697][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.07.11-00.48.41:697][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.07.11-00.48.42:018][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.11-00.48.42:070][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.11-00.48.42:070][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.11-00.48.59:264][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.11-00.48.59:264][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.07.11-00.48.59:264][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.07.11-00.48.59:264][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.11-00.48.59:623][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2020.07.11-00.48.59:623][  0]LogD3D11RHI:       2010/0/6088 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.07.11-00.48.59:639][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2020.07.11-00.48.59:639][  0]LogD3D11RHI:       128/0/6088 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.07.11-00.48.59:644][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.11-00.48.59:644][  0]LogD3D11RHI:       0/0/6088 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.11-00.48.59:644][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.11-00.48.59:741][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.11-00.48.59:741][  0]LogD3D11RHI:     GPU DeviceId: 0x134d (for the marketing name, search the web for "GPU Device Id")
+[2020.07.11-00.48.59:742][  0]LogWindows: EnumDisplayDevices:
+[2020.07.11-00.48.59:742][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2020.07.11-00.48.59:742][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.07.11-00.48.59:743][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2020.07.11-00.48.59:743][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.07.11-00.48.59:744][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2020.07.11-00.48.59:744][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.07.11-00.48.59:744][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.07.11-00.48.59:744][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2020.07.11-00.48.59:824][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.07.11-00.48.59:824][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.11-00.48.59:849][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.07.11-00.49.00:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.07.11-00.49.00:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.07.11-00.49.00:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.07.11-00.49.00:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.07.11-00.49.00:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.07.11-00.49.00:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.07.11-00.49.00:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.07.11-00.49.00:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.07.11-00.49.00:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.07.11-00.49.00:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.07.11-00.49.00:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.11-00.49.00:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.07.11-00.49.00:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.07.11-00.49.00:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.07.11-00.49.00:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.07.11-00.49.00:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.11-00.49.00:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.07.11-00.49.00:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.07.11-00.49.00:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.07.11-00.49.00:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.07.11-00.49.00:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.07.11-00.49.01:003][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.11-00.49.01:018][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.07.11-00.49.01:032][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.07.11-00.49.01:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.07.11-00.49.01:058][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.07.11-00.49.01:071][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.07.11-00.49.01:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.07.11-00.49.01:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.07.11-00.49.01:134][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.07.11-00.49.01:134][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.07.11-00.49.01:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.11-00.49.01:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.07.11-00.49.01:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.07.11-00.49.01:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.07.11-00.49.01:184][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.11-00.49.01:190][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.11-00.49.01:411][  0]LogShaderCompilers: Guid format shader working directory is -69 characters bigger than the processId version (../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Intermediate/Shaders/WorkingDirectory/16080/).
+[2020.07.11-00.49.01:411][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gabriel/AppData/Local/Temp/UnrealShaderWorkingDir/0DA6A312496AF0C5B6CE0DBBED09E440/'.
+[2020.07.11-00.49.01:412][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.11-00.49.01:412][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.11-00.49.01:412][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.11-00.49.18:025][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.11-00.49.19:173][  0]LogDerivedDataCache: Loaded boot cache 1.15s 78MB C:/Users/Gabriel/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.07.11-00.49.19:173][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gabriel/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.07.11-00.49.19:173][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.11-00.49.19:173][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.11-00.49.19:174][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.11-00.49.19:174][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.11-00.49.19:192][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.11-00.49.19:192][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.11-00.49.19:192][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.11-00.49.19:195][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Gabriel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.11-00.49.19:195][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.11-00.49.19:195][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.11-00.49.19:263][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.07.11-00.49.19:268][  0]LogSlate: Using FreeType 2.10.0
+[2020.07.11-00.49.19:484][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.11-00.49.19:686][  0]LogAssetRegistry: FAssetRegistry took 0.0121 seconds to start up
+[2020.07.11-00.49.20:381][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.11-00.49.20:857][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.11-00.49.20:857][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.11-00.49.20:857][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.11-00.49.20:857][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.11-00.49.20:857][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.11-00.49.20:883][  0]LogNetVersion: Try2 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3984827005)
+[2020.07.11-00.50.25:431][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.618096 seconds
+[2020.07.11-00.50.25:447][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.07.11-00.50.25:448][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.07.11-00.50.25:448][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.11-00.50.28:102][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.11-00.50.28:110][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.11-00.50.29:043][  0]SourceControl: Source control is disabled
+[2020.07.11-00.50.29:043][  0]SourceControl: Source control is disabled
+[2020.07.11-00.50.29:045][  0]SourceControl: Source control is disabled
+[2020.07.11-00.50.29:046][  0]SourceControl: Source control is disabled
+[2020.07.11-00.50.29:048][  0]SourceControl: Source control is disabled
+[2020.07.11-00.50.29:931][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.11-00.50.29:971][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.11-00.50.29:971][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.11-00.50.30:260][  0]LogOcInput: OculusInput pre-init called
+[2020.07.11-00.50.30:278][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.07.11-00.50.30:278][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.07.11-00.50.30:783][  0]LogEngine: Initializing Engine...
+[2020.07.11-00.50.30:784][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.11-00.50.30:785][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.07.11-00.50.31:360][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.11-00.50.31:375][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.11-00.50.31:399][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.11-00.50.31:399][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.11-00.50.31:399][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.11-00.50.31:399][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.11-00.50.31:399][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.11-00.50.31:399][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.11-00.50.31:399][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.11-00.50.31:399][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.11-00.50.31:400][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.11-00.50.31:400][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.11-00.50.31:446][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.11-00.50.31:446][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.07.11-00.50.31:446][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.07.11-00.50.31:446][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.11-00.50.31:446][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.11-00.50.31:446][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.11-00.50.31:446][  0]LogAudioMixer: Display: Channel Order:
+[2020.07.11-00.50.31:446][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.11-00.50.31:446][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.07.11-00.50.31:504][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.07.11-00.50.31:512][  0]LogInit: FAudioDevice initialized.
+[2020.07.11-00.50.31:512][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.11-00.50.32:689][  0]LogDerivedDataCache: Saved boot cache 1.18s 78MB C:/Users/Gabriel/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.07.11-00.50.32:694][  0]LogInit: Texture streaming: Enabled
+[2020.07.11-00.50.32:709][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.11-00.50.32:709][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.07.11-00.50.32:713][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.07.11-00.50.32:835][  0]LogInit: Transaction tracking system initialized
+[2020.07.11-00.50.32:851][  0]BlueprintLog: New page: Editor Load
+[2020.07.11-00.50.33:030][  0]LocalizationService: Localization service is disabled
+[2020.07.11-00.50.33:077][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.07.11-00.50.33:078][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.07.11-00.50.33:078][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2020.07.11-00.50.35:611][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/' took 0.02s
+[2020.07.11-00.50.35:611][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.11-00.50.35:611][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.11-00.50.39:140][  0]SourceControl: Source control is disabled
+[2020.07.11-00.50.39:258][  0]LightingResults: New page: Lighting Build
+[2020.07.11-00.50.39:261][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-00.50.39:261][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-00.50.39:261][  0]MapCheck: New page: Map Check
+[2020.07.11-00.50.39:261][  0]LightingResults: New page: Lighting Build
+[2020.07.11-00.50.39:296][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.07.11-00.50.40:432][  0]LogAIModule: Creating AISystem for world Introvideos
+[2020.07.11-00.50.40:433][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.11-00.50.40:463][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.07.11-00.50.40:463][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.11-00.50.40:464][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.228ms to complete.
+[2020.07.11-00.50.40:464][  0]LogFileHelpers: Loading map 'Introvideos' took 1.324
+[2020.07.11-00.50.43:751][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-00.50.43:799][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-00.50.43:809][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-00.50.43:819][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-00.50.44:282][  0]LogCollectionManager: Loaded 0 collections in 0.002880 seconds
+[2020.07.11-00.50.45:298][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Collections/' took 0.00s
+[2020.07.11-00.50.45:299][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/Developers/Gabriel/Collections/' took 0.00s
+[2020.07.11-00.50.45:299][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/Collections/' took 0.00s
+[2020.07.11-00.50.45:299][  0]LogContentBrowser: Native class hierarchy populated in 0.0240 seconds. Added 3024 classes and 722 folders.
+[2020.07.11-00.50.45:629][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.11-00.50.55:061][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.07.11-00.50.55:744][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.07.11-00.51.04:153][  0]LogSlate: Took 0.000502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.11-00.51.04:158][  0]LogSlate: Took 0.000460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.11-00.51.04:242][  0]LogSlate: Took 0.069581 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.11-00.51.05:184][  0]LogRenderer: Reallocating scene render targets to support 812x380 Format 10 NumSamples 1 (Frame:1).
+[2020.07.11-00.51.05:692][  0]LogSlate: Took 0.065675 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.11-00.51.07:468][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.07.11-00.51.07:468][  0]LogLoad: (Engine Initialization) Total time: 153.10 seconds
+[2020.07.11-00.51.07:468][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.11-00.51.08:005][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.11-00.51.08:575][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.11-00.51.11:641][ 27]LogAssetRegistry: Asset discovery search completed in 111.9634 seconds
+[2020.07.11-00.51.11:713][ 27]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000012 seconds (updated 0 objects)
+[2020.07.11-00.51.20:694][544]LogTemp: Repeating last play command: Standalone Game
+[2020.07.11-00.51.20:979][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.07.11-00.56.04:969][195]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.11-00.56.46:609][417]LogAIModule: Creating AISystem for world Mneus
+[2020.07.11-00.56.46:762][417]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Mneus.Mneus
+[2020.07.11-00.56.46:809][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.07.11-00.56.46:866][417]Cmd: MAP LOAD FILE="../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/Maps/Mneus.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.11-00.56.46:868][417]LightingResults: New page: Lighting Build
+[2020.07.11-00.56.46:869][417]LoadErrors: New page: Loading map: Mneus.umap
+[2020.07.11-00.56.46:870][417]LogWorld: UWorld::CleanupWorld for Introvideos, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-00.56.46:883][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-00.56.46:883][417]MapCheck: New page: Map Check
+[2020.07.11-00.56.46:883][417]LightingResults: New page: Lighting Build
+[2020.07.11-00.56.46:910][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.07.11-00.56.47:057][417]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.11-00.56.47:085][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.07.11-00.56.47:218][417]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.11-00.56.47:219][417]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.38ms to complete.
+[2020.07.11-00.56.47:219][417]LogFileHelpers: Loading map 'Mneus' took 0.410
+[2020.07.11-00.56.54:190][799]LogEditorViewport: Clicking on Actor (LMB): PaperFlipbookActor (Forest)
+[2020.07.11-00.57.24:878][432]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Mneus.Mneus:PersistentLevel.Mneus
+[2020.07.11-00.57.25:961][432]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 121 classes and 0 folders.
+[2020.07.11-00.57.28:678][432]LogSlate: Took 0.014596 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.11-00.57.29:358][433]LogSlate: Took 0.010765 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.11-00.58.04:523][231]LogSlate: Window 'Mneus' being destroyed
+[2020.07.11-00.58.04:535][231]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-00.58.04:535][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-00.58.26:381][475]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InterfazUsuario/interfazMenu.interfazMenu
+[2020.07.11-00.59.55:253][116]LogSlate: Window 'interfazMenu' being destroyed
+[2020.07.11-00.59.55:271][116]LogSlate: Window 'interfazMenu' being destroyed
+[2020.07.11-00.59.55:366][116]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-00.59.55:366][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-00.59.55:379][116]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-00.59.55:379][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-00.59.59:892][368]LogTemp: Repeating last play command: Standalone Game
+[2020.07.11-01.00.00:091][368]LogUObjectHash: Compacting FUObjectHashTables data took   8.71ms
+[2020.07.11-01.01.03:556][794]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.11-01.01.11:661][818]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.11-01.01.11:661][818]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.11-01.01.12:323][820]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.11-01.01.34:582][317]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InterfazUsuario/BattleInteface.BattleInteface
+[2020.07.11-01.02.45:234][273]LogSlate: Window 'BattleInteface' being destroyed
+[2020.07.11-01.02.45:252][273]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-01.02.45:252][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-01.02.45:312][273]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-01.02.45:312][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-01.05.04:577][957]LogSlate: Took 0.077185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.07.11-01.05.12:775][527]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InterfazUsuario/INTRO.INTRO
+[2020.07.11-01.05.16:154][693]LogSlate: Window 'INTRO' being destroyed
+[2020.07.11-01.05.16:170][693]LogSlate: Window 'INTRO' being destroyed
+[2020.07.11-01.05.16:174][693]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-01.05.16:174][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-01.05.16:365][693]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-01.05.16:366][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-01.05.18:180][813]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InterfazUsuario/MensajeInicial.MensajeInicial
+[2020.07.11-01.05.57:465][787]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/MensajeInicialD1AD62C34204B73C8768F5B80B768279.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/InterfazUsuario/MensajeInicial.uasset'
+[2020.07.11-01.05.57:514][787]AssetCheck: New page: Asset Save: MensajeInicial
+[2020.07.11-01.05.57:515][787]LogContentValidation: Display: Validating WidgetBlueprint /Game/InterfazUsuario/MensajeInicial.MensajeInicial
+[2020.07.11-01.05.58:016][810]BlueprintLog: New page: Compile MensajeInicial
+[2020.07.11-01.05.58:164][810]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.07.11-01.06.46:572][169]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.07.11-01.06.46:576][169]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Mneus' took 0.045
+[2020.07.11-01.06.46:653][169]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InterfazUsuario/BattleInteface] ([1] browsable assets)...
+[2020.07.11-01.06.46:653][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/InterfazUsuario/BattleInteface]
+[2020.07.11-01.06.46:852][169]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/BattleInteface_Auto144538145404ABF39952DBCBA94E52A55.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/InterfazUsuario/BattleInteface_Auto1.uasset'
+[2020.07.11-01.06.46:874][169]LogFileHelpers: Auto-saving content packages took 0.298
+[2020.07.11-01.06.54:807][568]LogSlate: Window 'MensajeInicial' being destroyed
+[2020.07.11-01.06.54:825][568]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-01.06.54:825][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-01.06.54:835][568]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-01.06.54:835][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-01.07.22:355][675]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.11-01.08.54:899][942]LogHttp: Warning: 000001989CB18540: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E20E376-4CF4-5B73-CC85-74816588146C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=a312687f43dbe851dea01ba50be59701%7C3c85aff0eb4d4184aec065d645d20b8a%7C0efe2469-d861-4056-ac92-ea66a7ab38bd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.07.11-01.08.54:899][942]LogHttp: Warning: 000001989CB18540: request failed, libcurl error: 28 (Timeout was reached)
+[2020.07.11-01.08.54:899][942]LogHttp: Warning: 000001989CB18540: libcurl info message cache 0 (Connection 5 seems to be dead!)
+[2020.07.11-01.08.54:899][942]LogHttp: Warning: 000001989CB18540: libcurl info message cache 1 (Closing connection 5)
+[2020.07.11-01.08.54:899][942]LogHttp: Warning: 000001989CB18540: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.07.11-01.08.54:899][942]LogHttp: Warning: 000001989CB18540: libcurl info message cache 3 (  Trying 18.213.183.93...)
+[2020.07.11-01.08.54:899][942]LogHttp: Warning: 000001989CB18540: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.07.11-01.08.54:899][942]LogHttp: Warning: 000001989CB18540: libcurl info message cache 5 (Connected to datarouter.ol.epicgames.com (18.213.183.93) port 443 (#6))
+[2020.07.11-01.08.54:899][942]LogHttp: Warning: 000001989CB18540: libcurl info message cache 6 (ALPN, offering http/1.1)
+[2020.07.11-01.08.54:899][942]LogHttp: Warning: 000001989CB18540: libcurl info message cache 7 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.07.11-01.08.54:899][942]LogHttp: Warning: 000001989CB18540: libcurl info message cache 8 (SSL re-using session ID)
+[2020.07.11-01.08.54:899][942]LogHttp: Warning: 000001989CB18540: libcurl info message cache 9 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.07.11-01.08.54:899][942]LogHttp: Warning: 000001989CB18540: libcurl info message cache 10 (Operation timed out after 60000 milliseconds with 0 out of 0 bytes received)
+[2020.07.11-01.08.54:899][942]LogHttp: Warning: 000001989CB18540: libcurl info message cache 11 (Closing connection 6)
+[2020.07.11-01.08.54:900][942]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E20E376-4CF4-5B73-CC85-74816588146C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=a312687f43dbe851dea01ba50be59701%7C3c85aff0eb4d4184aec065d645d20b8a%7C0efe2469-d861-4056-ac92-ea66a7ab38bd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.07.11-01.09.12:506][757]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Nueva_partida.Nueva_partida
+[2020.07.11-01.09.12:545][757]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.07.11-01.09.14:846][757]LogSlate: Window 'Save Content' being destroyed
+[2020.07.11-01.09.14:967][757]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/BattleInteface7106AED049B4E622BB314BAF84CBC5D7.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/InterfazUsuario/BattleInteface.uasset'
+[2020.07.11-01.09.15:060][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.07.11-01.09.15:144][757]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Nueva_partida5D63C13C4879E4494C137D846DE91FE6.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/Maps/Nueva_partida.umap'
+[2020.07.11-01.09.15:148][757]LogFileHelpers: Saving map 'Nueva_partida' took 0.128
+[2020.07.11-01.09.15:148][757]LightingResults: New page: Lighting Build
+[2020.07.11-01.09.15:149][757]LoadErrors: New page: Loading map: Nueva_partida.umap
+[2020.07.11-01.09.15:175][757]LogWorld: UWorld::CleanupWorld for Mneus, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-01.09.15:175][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-01.09.15:175][757]MapCheck: New page: Map Check
+[2020.07.11-01.09.15:175][757]LightingResults: New page: Lighting Build
+[2020.07.11-01.09.15:211][757]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.07.11-01.09.15:311][757]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.11-01.09.15:311][757]LogAIModule: Creating AISystem for world Nueva_partida
+[2020.07.11-01.09.15:357][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.07.11-01.09.15:398][757]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.11-01.09.15:398][757]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.219ms to complete.
+[2020.07.11-01.09.15:398][757]LogFileHelpers: Loading map 'Nueva_partida' took 0.251
+[2020.07.11-01.09.15:460][757]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.11-01.09.15:460][757]LogContentValidation: Display: Validating WidgetBlueprint /Game/InterfazUsuario/BattleInteface.BattleInteface
+[2020.07.11-01.09.15:460][757]LogContentValidation: Display: Validating World /Game/Maps/Nueva_partida.Nueva_partida
+[2020.07.11-01.09.45:156][297]LogAIModule: Creating AISystem for world Introvideos
+[2020.07.11-01.09.45:157][297]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Introvideos.Introvideos
+[2020.07.11-01.09.45:190][297]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.07.11-01.09.45:193][297]LightingResults: New page: Lighting Build
+[2020.07.11-01.09.45:194][297]LoadErrors: New page: Loading map: Introvideos.umap
+[2020.07.11-01.09.45:194][297]LogWorld: UWorld::CleanupWorld for Nueva_partida, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-01.09.45:194][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-01.09.45:194][297]MapCheck: New page: Map Check
+[2020.07.11-01.09.45:194][297]LightingResults: New page: Lighting Build
+[2020.07.11-01.09.45:224][297]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.07.11-01.09.45:366][297]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.11-01.09.45:400][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.07.11-01.09.45:445][297]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.11-01.09.45:445][297]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.167ms to complete.
+[2020.07.11-01.09.45:445][297]LogFileHelpers: Loading map 'Introvideos' took 0.252
+[2020.07.11-01.10.05:253][621]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Introvideos.Introvideos
+[2020.07.11-01.10.05:285][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.07.11-01.10.05:288][621]LightingResults: New page: Lighting Build
+[2020.07.11-01.10.05:289][621]LoadErrors: New page: Loading map: Introvideos.umap
+[2020.07.11-01.10.05:289][621]LogWorld: UWorld::CleanupWorld for Introvideos, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-01.10.05:289][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-01.10.05:289][621]MapCheck: New page: Map Check
+[2020.07.11-01.10.05:289][621]LightingResults: New page: Lighting Build
+[2020.07.11-01.10.05:321][621]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.07.11-01.10.05:331][621]LogAIModule: Creating AISystem for world Introvideos
+[2020.07.11-01.10.05:416][621]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.11-01.10.05:451][621]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.07.11-01.10.05:493][621]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.11-01.10.05:494][621]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.204ms to complete.
+[2020.07.11-01.10.05:494][621]LogFileHelpers: Loading map 'Introvideos' took 0.207
+[2020.07.11-01.11.10:337][637]LogAIModule: Creating AISystem for world Nueva_partida
+[2020.07.11-01.11.10:338][637]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Nueva_partida.Nueva_partida
+[2020.07.11-01.11.10:370][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.07.11-01.11.10:372][637]LightingResults: New page: Lighting Build
+[2020.07.11-01.11.10:373][637]LoadErrors: New page: Loading map: Nueva_partida.umap
+[2020.07.11-01.11.10:373][637]LogWorld: UWorld::CleanupWorld for Introvideos, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-01.11.10:373][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-01.11.10:373][637]MapCheck: New page: Map Check
+[2020.07.11-01.11.10:373][637]LightingResults: New page: Lighting Build
+[2020.07.11-01.11.10:407][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.07.11-01.11.10:487][637]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.11-01.11.10:520][637]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.07.11-01.11.10:563][637]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.11-01.11.10:565][637]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.594ms to complete.
+[2020.07.11-01.11.10:565][637]LogFileHelpers: Loading map 'Nueva_partida' took 0.194
+[2020.07.11-01.11.38:333][742]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InterfazUsuario/PantallaNegra.PantallaNegra
+[2020.07.11-01.12.19:305][983]LogSlate: Window 'Color Picker' being destroyed
+[2020.07.11-01.17.40:996][168]BlueprintLog: New page: Compile PantallaNegra
+[2020.07.11-01.17.41:940][168]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.07.11-01.17.42:618][207]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/PantallaNegraE9B069D34833E64082E0D2B4DF2CD3EC.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/InterfazUsuario/PantallaNegra.uasset'
+[2020.07.11-01.17.42:644][207]AssetCheck: New page: Asset Save: PantallaNegra
+[2020.07.11-01.17.42:644][207]LogContentValidation: Display: Validating WidgetBlueprint /Game/InterfazUsuario/PantallaNegra.PantallaNegra
+[2020.07.11-01.17.43:793][295]LogSlate: Window 'PantallaNegra' being destroyed
+[2020.07.11-01.17.43:804][295]LogSlate: Window 'PantallaNegra' being destroyed
+[2020.07.11-01.17.43:810][295]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-01.17.43:810][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-01.17.43:841][295]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-01.17.43:841][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-01.17.58:097][ 74]LogFactory: FactoryCreateFile: FileMediaSource with AndroidFileMediaSourceFactory (0 0 C:\Users\Gabriel\Music\Songr\Encender coche y arrancar (Efecto de Sonido) car start and drive away snow Sound Effect.mp4)
+[2020.07.11-01.18.09:773][316]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.07.11-01.18.11:356][316]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.11-01.18.11:665][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.07.11-01.18.42:310][928]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Gabriel\Downloads\Encender coche y arrancar (Efecto de Sonido) car start and drive away snow Sound Effect (online-audio-converter.com).wav)
+[2020.07.11-01.18.42:369][928]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com_...
+[2020.07.11-01.18.42:371][928]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com_.Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com_ will be modified from 40 to 40.
+[2020.07.11-01.18.43:029][928]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 7151616 while cooking SoundWave /Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com_.Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com_.
+[2020.07.11-01.20.17:708][938]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.07.11-01.20.17:721][938]LogMetaData: Removing '/Game/InterfazUsuario/NuevaPartida.SKEL_NuevaPartida_C' ref from Metadata '/Game/InterfazUsuario/PantallaNegra.PackageMetaData'
+[2020.07.11-01.20.17:722][938]LogMetaData: Removing '/Game/InterfazUsuario/NuevaPartida.NuevaPartida_C' ref from Metadata '/Game/InterfazUsuario/PantallaNegra.PackageMetaData'
+[2020.07.11-01.20.17:722][938]LogMetaData: Removing '/Game/InterfazUsuario/NuevaPartida.NuevaPartida:EventGraph.K2Node_Event_0' ref from Metadata '/Game/InterfazUsuario/PantallaNegra.PackageMetaData'
+[2020.07.11-01.20.17:722][938]LogMetaData: Removing '/Game/InterfazUsuario/NuevaPartida.NuevaPartida:EventGraph.K2Node_Event_1' ref from Metadata '/Game/InterfazUsuario/PantallaNegra.PackageMetaData'
+[2020.07.11-01.20.17:722][938]LogMetaData: Removing '/Game/InterfazUsuario/NuevaPartida.NuevaPartida:EventGraph.K2Node_Event_2' ref from Metadata '/Game/InterfazUsuario/PantallaNegra.PackageMetaData'
+[2020.07.11-01.20.17:841][938]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/NuevaPartidaC206CFDD4721A3B22AC7E0B115EDF532.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/InterfazUsuario/NuevaPartida.uasset'
+[2020.07.11-01.20.18:109][938]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.07.11-01.20.18:153][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.07.11-01.20.18:184][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.07.11-01.20.18:237][938]AssetCheck: New page: Asset Save: NuevaPartida
+[2020.07.11-01.20.18:237][938]LogContentValidation: Display: Validating WidgetBlueprint /Game/InterfazUsuario/NuevaPartida.NuevaPartida
+[2020.07.11-01.20.25:572][792]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InterfazUsuario/NuevaPartida.NuevaPartida
+[2020.07.11-01.21.29:344][920]LogEditorTransaction: Undo Move Widget
+[2020.07.11-01.22.01:462][237]BlueprintLog: New page: Compile NuevaPartida
+[2020.07.11-01.22.01:512][237]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.07.11-01.22.02:630][319]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/NuevaPartidaA19745984B5BC60E444DBC88D4E90D6E.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/InterfazUsuario/NuevaPartida.uasset'
+[2020.07.11-01.22.02:651][319]AssetCheck: New page: Asset Save: NuevaPartida
+[2020.07.11-01.22.02:651][319]LogContentValidation: Display: Validating WidgetBlueprint /Game/InterfazUsuario/NuevaPartida.NuevaPartida
+[2020.07.11-01.22.28:082][712]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.07.11-01.22.28:084][712]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Nueva_partida' took 0.034
+[2020.07.11-01.22.28:084][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com_] ([1] browsable assets)...
+[2020.07.11-01.22.28:154][712]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com_.Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com_]
+[2020.07.11-01.22.28:154][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com_]
+[2020.07.11-01.22.28:271][712]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect0A4B65F948C8C2AB827B48A28B59F37C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'
+[2020.07.11-01.22.28:272][712]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect0A4B65F948C8C2AB827B48A28B59F37C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.22.28:774][712]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect0A4B65F948C8C2AB827B48A28B59F37C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.22.29:274][712]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect0A4B65F948C8C2AB827B48A28B59F37C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.22.29:776][712]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect0A4B65F948C8C2AB827B48A28B59F37C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.22.30:277][712]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect0A4B65F948C8C2AB827B48A28B59F37C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.22.30:778][712]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect0A4B65F948C8C2AB827B48A28B59F37C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.22.31:279][712]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect0A4B65F948C8C2AB827B48A28B59F37C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.22.31:780][712]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect0A4B65F948C8C2AB827B48A28B59F37C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.22.32:281][712]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect0A4B65F948C8C2AB827B48A28B59F37C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.22.32:782][712]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect0A4B65F948C8C2AB827B48A28B59F37C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.22.33:283][712]LogFileManager: Error: Error moving file '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect0A4B65F948C8C2AB827B48A28B59F37C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'.
+[2020.07.11-01.22.33:283][712]LogSavePackage: Error: Error saving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'
+[2020.07.11-01.22.33:283][712]Warning: Error saving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'
+[2020.07.11-01.32.33:533][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.07.11-01.32.33:535][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Nueva_partida' took 0.037
+[2020.07.11-01.32.33:536][ 25]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com_] ([1] browsable assets)...
+[2020.07.11-01.32.33:536][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com_]
+[2020.07.11-01.32.33:544][ 25]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect104A5B33461D83C77130A48383D44A5C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'
+[2020.07.11-01.32.33:545][ 25]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect104A5B33461D83C77130A48383D44A5C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.32.34:046][ 25]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect104A5B33461D83C77130A48383D44A5C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.32.34:546][ 25]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect104A5B33461D83C77130A48383D44A5C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.32.35:047][ 25]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect104A5B33461D83C77130A48383D44A5C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.32.35:548][ 25]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect104A5B33461D83C77130A48383D44A5C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.32.36:049][ 25]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect104A5B33461D83C77130A48383D44A5C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.32.36:549][ 25]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect104A5B33461D83C77130A48383D44A5C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.32.37:050][ 25]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect104A5B33461D83C77130A48383D44A5C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.32.37:551][ 25]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect104A5B33461D83C77130A48383D44A5C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.32.38:053][ 25]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect104A5B33461D83C77130A48383D44A5C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.32.38:554][ 25]LogFileManager: Error: Error moving file '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect104A5B33461D83C77130A48383D44A5C.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'.
+[2020.07.11-01.32.38:555][ 25]LogSavePackage: Error: Error saving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'
+[2020.07.11-01.32.38:555][ 25]Warning: Error saving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'
+[2020.07.11-01.42.38:733][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.07.11-01.42.38:735][444]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Nueva_partida' took 0.036
+[2020.07.11-01.42.38:736][444]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com_] ([1] browsable assets)...
+[2020.07.11-01.42.38:736][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com_]
+[2020.07.11-01.42.38:745][444]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectDE6EE0E54AA749971D416BB6A4536519.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'
+[2020.07.11-01.42.38:746][444]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectDE6EE0E54AA749971D416BB6A4536519.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.42.39:247][444]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectDE6EE0E54AA749971D416BB6A4536519.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.42.39:748][444]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectDE6EE0E54AA749971D416BB6A4536519.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.42.40:250][444]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectDE6EE0E54AA749971D416BB6A4536519.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.42.40:751][444]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectDE6EE0E54AA749971D416BB6A4536519.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.42.41:253][444]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectDE6EE0E54AA749971D416BB6A4536519.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.42.41:754][444]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectDE6EE0E54AA749971D416BB6A4536519.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.42.42:255][444]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectDE6EE0E54AA749971D416BB6A4536519.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.42.42:757][444]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectDE6EE0E54AA749971D416BB6A4536519.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.42.43:258][444]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectDE6EE0E54AA749971D416BB6A4536519.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.42.43:759][444]LogFileManager: Error: Error moving file '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectDE6EE0E54AA749971D416BB6A4536519.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'.
+[2020.07.11-01.42.43:759][444]LogSavePackage: Error: Error saving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'
+[2020.07.11-01.42.43:759][444]Warning: Error saving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'
+[2020.07.11-01.52.43:938][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.07.11-01.52.43:940][938]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Nueva_partida' took 0.036
+[2020.07.11-01.52.43:940][938]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com_] ([1] browsable assets)...
+[2020.07.11-01.52.43:941][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com_]
+[2020.07.11-01.52.43:949][938]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectEF28F8EF406B94642CCA118290689007.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'
+[2020.07.11-01.52.43:949][938]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectEF28F8EF406B94642CCA118290689007.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.52.44:450][938]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectEF28F8EF406B94642CCA118290689007.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.52.44:951][938]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectEF28F8EF406B94642CCA118290689007.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.52.45:452][938]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectEF28F8EF406B94642CCA118290689007.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.52.45:952][938]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectEF28F8EF406B94642CCA118290689007.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.52.46:454][938]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectEF28F8EF406B94642CCA118290689007.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.52.46:954][938]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectEF28F8EF406B94642CCA118290689007.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.52.47:455][938]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectEF28F8EF406B94642CCA118290689007.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.52.48:026][938]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectEF28F8EF406B94642CCA118290689007.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.52.48:527][938]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectEF28F8EF406B94642CCA118290689007.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-01.52.49:028][938]LogFileManager: Error: Error moving file '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectEF28F8EF406B94642CCA118290689007.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'.
+[2020.07.11-01.52.49:028][938]LogSavePackage: Error: Error saving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'
+[2020.07.11-01.52.49:029][938]Warning: Error saving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'
+[2020.07.11-01.54.19:523][850]LogHttp: Warning: 000001989FC7A480: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E20E376-4CF4-5B73-CC85-74816588146C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=a312687f43dbe851dea01ba50be59701%7C3c85aff0eb4d4184aec065d645d20b8a%7C0efe2469-d861-4056-ac92-ea66a7ab38bd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.07.11-01.54.19:524][850]LogHttp: Warning: 000001989FC7A480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.07.11-01.54.19:524][850]LogHttp: Warning: 000001989FC7A480: libcurl info message cache 0 (Connection 23 seems to be dead!)
+[2020.07.11-01.54.19:524][850]LogHttp: Warning: 000001989FC7A480: libcurl info message cache 1 (Closing connection 23)
+[2020.07.11-01.54.19:524][850]LogHttp: Warning: 000001989FC7A480: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.07.11-01.54.19:524][850]LogHttp: Warning: 000001989FC7A480: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.07.11-01.54.19:524][850]LogHttp: Warning: 000001989FC7A480: libcurl info message cache 4 (Closing connection 24)
+[2020.07.11-01.54.19:524][850]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E20E376-4CF4-5B73-CC85-74816588146C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=a312687f43dbe851dea01ba50be59701%7C3c85aff0eb4d4184aec065d645d20b8a%7C0efe2469-d861-4056-ac92-ea66a7ab38bd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.07.11-02.02.49:193][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.07.11-02.02.49:195][921]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Nueva_partida' took 0.035
+[2020.07.11-02.02.49:196][921]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com_] ([1] browsable assets)...
+[2020.07.11-02.02.49:196][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com_]
+[2020.07.11-02.02.49:205][921]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectD01F89244BB3A428FC48A6B548021054.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'
+[2020.07.11-02.02.49:205][921]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectD01F89244BB3A428FC48A6B548021054.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-02.02.49:707][921]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectD01F89244BB3A428FC48A6B548021054.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-02.02.50:208][921]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectD01F89244BB3A428FC48A6B548021054.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-02.02.50:709][921]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectD01F89244BB3A428FC48A6B548021054.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-02.02.51:210][921]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectD01F89244BB3A428FC48A6B548021054.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-02.02.51:711][921]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectD01F89244BB3A428FC48A6B548021054.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-02.02.52:212][921]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectD01F89244BB3A428FC48A6B548021054.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-02.02.52:713][921]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectD01F89244BB3A428FC48A6B548021054.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-02.02.53:214][921]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectD01F89244BB3A428FC48A6B548021054.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-02.02.53:715][921]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectD01F89244BB3A428FC48A6B548021054.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-02.02.54:217][921]LogFileManager: Error: Error moving file '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__EfectD01F89244BB3A428FC48A6B548021054.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'.
+[2020.07.11-02.02.54:217][921]LogSavePackage: Error: Error saving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'
+[2020.07.11-02.02.54:217][921]Warning: Error saving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'
+[2020.07.11-02.09.16:085][518]LogTemp: Resetting audio stream to device id 
+[2020.07.11-02.09.16:440][518]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.11-02.09.16:440][518]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.07.11-02.09.16:440][518]LogAudioMixer: Display: Is Default: Yes
+[2020.07.11-02.09.16:440][518]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.11-02.09.16:440][518]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.11-02.09.16:440][518]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.11-02.09.16:440][518]LogAudioMixer: Display: Channel Order:
+[2020.07.11-02.09.16:440][518]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.11-02.09.16:440][518]LogAudioMixer: Display: 1: FrontRight
+[2020.07.11-03.30.53:285][560]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.07.11-03.30.53:436][560]LogTemp: Resetting audio stream to device id 
+[2020.07.11-03.30.53:562][560]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.11-03.30.53:562][560]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.07.11-03.30.53:562][560]LogAudioMixer: Display: Is Default: Yes
+[2020.07.11-03.30.53:562][560]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.11-03.30.53:562][560]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.11-03.30.53:562][560]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.11-03.30.53:562][560]LogAudioMixer: Display: Channel Order:
+[2020.07.11-03.30.53:562][560]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.11-03.30.53:562][560]LogAudioMixer: Display: 1: FrontRight
+[2020.07.11-03.30.54:720][561]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.07.11-03.30.54:721][561]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.07.11-03.30.54:721][561]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.07.11-03.30.54:735][561]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.07.11-03.30.54:743][561]LogTemp: Resetting audio stream to device id 
+[2020.07.11-03.30.54:986][561]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.11-03.30.54:986][561]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.07.11-03.30.54:986][561]LogAudioMixer: Display: Is Default: Yes
+[2020.07.11-03.30.54:986][561]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.11-03.30.54:986][561]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.11-03.30.54:986][561]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.11-03.30.54:986][561]LogAudioMixer: Display: Channel Order:
+[2020.07.11-03.30.54:986][561]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.11-03.30.54:986][561]LogAudioMixer: Display: 1: FrontRight
+[2020.07.11-03.30.58:420][562]LogHttp: Warning: 000001989FC796C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E20E376-4CF4-5B73-CC85-74816588146C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=a312687f43dbe851dea01ba50be59701%7C3c85aff0eb4d4184aec065d645d20b8a%7C0efe2469-d861-4056-ac92-ea66a7ab38bd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.07.11-03.30.58:420][562]LogHttp: Warning: 000001989FC796C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.07.11-03.30.58:420][562]LogHttp: Warning: 000001989FC796C0: libcurl info message cache 0 (Connection 29 seems to be dead!)
+[2020.07.11-03.30.58:420][562]LogHttp: Warning: 000001989FC796C0: libcurl info message cache 1 (Closing connection 29)
+[2020.07.11-03.30.58:420][562]LogHttp: Warning: 000001989FC796C0: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.07.11-03.30.58:420][562]LogHttp: Warning: 000001989FC796C0: libcurl info message cache 3 (Closing connection 30)
+[2020.07.11-03.30.58:424][562]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E20E376-4CF4-5B73-CC85-74816588146C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=a312687f43dbe851dea01ba50be59701%7C3c85aff0eb4d4184aec065d645d20b8a%7C0efe2469-d861-4056-ac92-ea66a7ab38bd&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.07.11-03.30.59:881][562]LogTemp: Resetting audio stream to device id 
+[2020.07.11-03.30.59:948][562]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.11-03.30.59:948][562]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.07.11-03.30.59:948][562]LogAudioMixer: Display: Is Default: Yes
+[2020.07.11-03.30.59:948][562]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.11-03.30.59:948][562]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.11-03.30.59:948][562]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.11-03.30.59:948][562]LogAudioMixer: Display: Channel Order:
+[2020.07.11-03.30.59:948][562]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.11-03.30.59:948][562]LogAudioMixer: Display: 1: FrontRight
+[2020.07.11-03.31.03:552][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.07.11-03.31.03:553][648]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Nueva_partida' took 0.052
+[2020.07.11-03.31.03:554][648]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com_] ([1] browsable assets)...
+[2020.07.11-03.31.03:554][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com_]
+[2020.07.11-03.31.03:580][648]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect8CC30583415484BE99FA26A423F086FF.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'
+[2020.07.11-03.31.03:581][648]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect8CC30583415484BE99FA26A423F086FF.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-03.31.04:082][648]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect8CC30583415484BE99FA26A423F086FF.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-03.31.04:584][648]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect8CC30583415484BE99FA26A423F086FF.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-03.31.05:085][648]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect8CC30583415484BE99FA26A423F086FF.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-03.31.05:587][648]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect8CC30583415484BE99FA26A423F086FF.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-03.31.06:088][648]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect8CC30583415484BE99FA26A423F086FF.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-03.31.06:589][648]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect8CC30583415484BE99FA26A423F086FF.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-03.31.07:090][648]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect8CC30583415484BE99FA26A423F086FF.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-03.31.07:591][648]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect8CC30583415484BE99FA26A423F086FF.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-03.31.08:365][648]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect8CC30583415484BE99FA26A423F086FF.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset', retrying in .5s...
+[2020.07.11-03.31.08:866][648]LogFileManager: Error: Error moving file '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Encender_coche_y_arrancar__Efect8CC30583415484BE99FA26A423F086FF.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'.
+[2020.07.11-03.31.08:866][648]LogSavePackage: Error: Error saving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'
+[2020.07.11-03.31.08:866][648]Warning: Error saving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/Autosaves/Game/soundFX/Encender_coche_y_arrancar__Efecto_de_Sonido__car_start_and_drive_away_snow_Sound_Effect__online-audio-converter_com__Auto2.uasset'
+[2020.07.11-03.32.29:549][931]BlueprintLog: New page: Compile NuevaPartida
+[2020.07.11-03.32.29:606][931]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2020.07.11-03.32.30:693][985]LogSavePackage: Moving '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Saved/NuevaPartida6AF87A214D1761B6EB4EA3B36ADCAC6F.tmp' to '../../../../../../Users/Gabriel/Documents/Desarrollo de videojuegos/Try2 actualizacion1/videojuegos2/DreamGuards-0.1/Content/InterfazUsuario/NuevaPartida.uasset'
+[2020.07.11-03.32.30:719][985]AssetCheck: New page: Asset Save: NuevaPartida
+[2020.07.11-03.32.30:719][985]LogContentValidation: Display: Validating WidgetBlueprint /Game/InterfazUsuario/NuevaPartida.NuevaPartida
+[2020.07.11-03.32.32:028][ 59]LogSlate: Window 'NuevaPartida' being destroyed
+[2020.07.11-03.32.32:035][ 59]LogSlate: Window 'NuevaPartida' being destroyed
+[2020.07.11-03.32.32:040][ 59]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-03.32.32:040][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-03.32.32:072][ 59]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-03.32.32:072][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: === Critical error: ===
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: 
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: Fatal error!
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: 
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION 0xff6589e0
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: 
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00000198ff6589e0 UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad6371ce6 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad64bc510 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad64c124a UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad64c874c UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad65d576e UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad65d5fc3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f7f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f03e6c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad5ef6bc4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f7f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f03e6c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad5ef6bc4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f7f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad5eff99f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad5ef6ef4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f7f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad5ef6ddc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad64139e6 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad641d9f1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f7f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f03edc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad5ef6bc4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f7f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:652][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f03e6c UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5ef6bc4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f7f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5eff99f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5ef6ef4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f7f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f03edc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5ef6bc4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f7f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5ef6ddc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f7f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f03edc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5ef6bc4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f7f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5ef6ddc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f7f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad654e5f3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad637db8a UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f7f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5ef6ddc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f7f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad654e5f3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad637db8a UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f7f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5eff99f UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5ef6ef4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f7f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5ef6ddc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f7f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f03edc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5ef6bc4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5f7f55a UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5ef6ddc UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad637d64c UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad648abcc UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad64614bb UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad5fdd544 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad63991d0 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad63a6944 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad64f1498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad6509281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad636323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad63e9175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad63d413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffad63c8f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffafa394ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffafa38242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffafa397195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffafa37ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffb51985c0d USER32.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffb51985602 USER32.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ffafa398699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ff76c2b6db0 UE4Editor.exe!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ff76c2cc3ec UE4Editor.exe!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ff76c2cc4ca UE4Editor.exe!UnknownFunction []
+[2020.07.11-03.32.53:653][ 59]LogWindows: Error: [Callstack] 0x00007ff76c2dceae UE4Editor.exe!UnknownFunction []
+[2020.07.11-03.32.53:654][ 59]LogWindows: Error: [Callstack] 0x00007ff76c2dfcbe UE4Editor.exe!UnknownFunction []
+[2020.07.11-03.32.53:654][ 59]LogWindows: Error: [Callstack] 0x00007ffb51697bd4 KERNEL32.DLL!UnknownFunction []
+[2020.07.11-03.32.53:654][ 59]LogWindows: Error: [Callstack] 0x00007ffb520ece51 ntdll.dll!UnknownFunction []
+[2020.07.11-03.32.53:654][ 59]LogWindows: Error: 
+[2020.07.11-03.32.53:671][ 59]LogExit: Executing StaticShutdownAfterError
+[2020.07.11-03.32.53:699][ 59]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.07.11-03.32.53:699][ 59]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.07.11-03.32.53:747][ 59]Log file closed, 07/10/20 23:32:53
