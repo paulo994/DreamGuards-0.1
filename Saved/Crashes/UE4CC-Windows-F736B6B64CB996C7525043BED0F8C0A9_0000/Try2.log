@@ -1,0 +1,1720 @@
+﻿Log file open, 07/17/20 13:34:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Try2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.080276
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 8.1 (), CPU: Intel(R) Core(TM) i7-4702MQ CPU @ 2.20GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Engine.ini]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.07.17-17.34.52:639][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Engine.ini]
+[2020.07.17-17.34.52:640][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Engine.ini]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.17-17.34.52:640][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.17-17.34.52:641][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.07.17-17.34.52:641][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Engine.ini]
+[2020.07.17-17.34.52:641][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.17-17.34.52:641][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.17-17.34.52:641][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.17-17.34.52:641][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.17-17.34.52:641][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.17-17.34.52:641][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.17-17.34.52:641][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.07.17-17.34.52:641][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.17-17.34.52:641][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.17-17.34.52:641][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.17-17.34.52:641][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.17-17.34.52:641][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.17-17.34.52:641][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.17-17.34.52:641][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Engine.ini]
+[2020.07.17-17.34.52:641][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Engine.ini]
+[2020.07.17-17.34.52:642][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-17.34.52:642][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.17-17.34.52:642][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.17-17.34.52:642][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-17.34.52:642][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.17-17.34.52:642][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-17.34.52:642][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.17-17.34.52:642][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.17-17.34.52:642][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.17-17.34.52:642][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.17-17.34.52:642][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.17-17.34.52:642][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.17-17.34.52:642][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.17-17.34.52:643][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.17-17.34.52:644][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.17-17.34.52:644][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.17-17.34.52:647][  0]LogHAL: Display: Platform has ~ 16 GB [17112870912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.17-17.34.52:647][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.17-17.34.52:647][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SSGI.Quality:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.17-17.34.52:647][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.17-17.34.52:648][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-17.34.52:648][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2020.07.17-17.34.52:648][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2020.07.17-17.34.52:648][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-17.34.52:648][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:8]]
+[2020.07.17-17.34.52:648][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.17-17.34.52:648][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2020.07.17-17.34.52:648][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.17-17.34.52:648][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.17-17.34.52:648][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.17-17.34.52:648][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Config/Windows/Engine.ini]
+[2020.07.17-17.34.52:648][  0]LogInit: Computer: HP
+[2020.07.17-17.34.52:648][  0]LogInit: User: PJimenez
+[2020.07.17-17.34.52:648][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.07.17-17.34.52:648][  0]LogInit: High frequency timer resolution =2.143485 MHz
+[2020.07.17-17.34.52:648][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.07.17-17.34.52:648][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.17-17.34.52:648][  0]LogMemory: Process Physical Memory: 102.98 MB used, 102.98 MB peak
+[2020.07.17-17.34.52:648][  0]LogMemory: Process Virtual Memory: 100.48 MB used, 100.48 MB peak
+[2020.07.17-17.34.52:648][  0]LogMemory: Physical Memory: 3893.97 MB used,  12426.13 MB free, 16320.11 MB total
+[2020.07.17-17.34.52:648][  0]LogMemory: Virtual Memory: 989.11 MB used,  134216736.00 MB free, 134217728.00 MB total
+[2020.07.17-17.34.52:654][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.17-17.34.52:668][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.07.17-17.34.52:668][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.07.17-17.34.52:865][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.17-17.34.52:887][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.17-17.34.52:887][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.17-17.34.53:015][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.17-17.34.53:015][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.07.17-17.34.53:015][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.07.17-17.34.53:015][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.17-17.34.53:021][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2020.07.17-17.34.53:021][  0]LogD3D11RHI:       0/0/1792 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.07.17-17.34.53:022][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.17-17.34.53:022][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.17-17.34.53:022][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.17-17.34.53:028][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.17-17.34.53:029][  0]LogD3D11RHI:     GPU DeviceId: 0x416 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.17-17.34.53:029][  0]LogWindows: EnumDisplayDevices:
+[2020.07.17-17.34.53:029][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2020.07.17-17.34.53:029][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.07.17-17.34.53:029][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.07.17-17.34.53:029][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.07.17-17.34.53:029][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4600
+[2020.07.17-17.34.53:029][  0]LogD3D11RHI:   Driver Version: 10.18.10.3304 (internal:10.18.10.3304, unified:10.18.10.3304)
+[2020.07.17-17.34.53:029][  0]LogD3D11RHI:      Driver Date: 9-9-2013
+[2020.07.17-17.34.53:029][  0]LogRHI: Texture pool is 627 MB (70% of 896 MB)
+[2020.07.17-17.34.53:035][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.07.17-17.34.53:035][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.17-17.34.53:048][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2020.07.17-17.34.53:330][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.07.17-17.34.53:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.07.17-17.34.53:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.07.17-17.34.53:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.07.17-17.34.53:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.07.17-17.34.53:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.07.17-17.34.53:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.07.17-17.34.53:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.07.17-17.34.53:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.07.17-17.34.53:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.07.17-17.34.53:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.17-17.34.53:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.07.17-17.34.53:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.07.17-17.34.53:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.07.17-17.34.53:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.07.17-17.34.53:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.17-17.34.53:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.07.17-17.34.53:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.07.17-17.34.53:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.07.17-17.34.53:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.07.17-17.34.53:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.07.17-17.34.53:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.17-17.34.53:411][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.07.17-17.34.53:420][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.07.17-17.34.53:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.07.17-17.34.53:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.07.17-17.34.53:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.07.17-17.34.53:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.07.17-17.34.53:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.07.17-17.34.53:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.07.17-17.34.53:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.07.17-17.34.53:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.17-17.34.53:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.07.17-17.34.53:520][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.07.17-17.34.53:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.07.17-17.34.53:529][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.17-17.34.53:531][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.17-17.34.53:569][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Intermediate/Shaders/WorkingDirectory/157752/).
+[2020.07.17-17.34.53:569][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/PJimenez/AppData/Local/Temp/UnrealShaderWorkingDir/8CCF79FF42AD971803F897A6D794625A/'.
+[2020.07.17-17.34.53:570][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.17-17.34.53:570][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.17-17.34.53:570][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.17-17.34.54:475][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.17-17.34.54:567][  0]LogDerivedDataCache: Loaded boot cache 0.09s 78MB C:/Users/PJimenez/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.07.17-17.34.54:567][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/PJimenez/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.07.17-17.34.54:567][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.17-17.34.54:567][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.17-17.34.54:567][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.17-17.34.54:567][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.17-17.34.54:580][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.17-17.34.54:580][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.17-17.34.54:580][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.17-17.34.54:581][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PJimenez/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.17-17.34.54:581][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.17-17.34.54:581][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.17-17.34.54:612][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.07.17-17.34.54:615][  0]LogSlate: Using FreeType 2.10.0
+[2020.07.17-17.34.54:615][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.17-17.34.54:677][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2020.07.17-17.34.55:058][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.17-17.34.55:259][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.17-17.34.55:259][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.17-17.34.55:259][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.17-17.34.55:259][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.17-17.34.55:259][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.17-17.34.55:273][  0]LogNetVersion: Try2 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 3984827005)
+[2020.07.17-17.34.56:547][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.035388 seconds
+[2020.07.17-17.34.56:555][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.07.17-17.34.56:555][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.07.17-17.34.56:555][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.17-17.34.57:002][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.17-17.34.57:005][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.17-17.34.57:071][  0]SourceControl: Source control is disabled
+[2020.07.17-17.34.57:071][  0]SourceControl: Source control is disabled
+[2020.07.17-17.34.57:076][  0]SourceControl: Source control is disabled
+[2020.07.17-17.34.57:076][  0]SourceControl: Source control is disabled
+[2020.07.17-17.34.57:077][  0]SourceControl: Source control is disabled
+[2020.07.17-17.34.57:163][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.17-17.34.57:174][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.17-17.34.57:174][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.17-17.34.57:268][  0]LogOcInput: OculusInput pre-init called
+[2020.07.17-17.34.57:277][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.07.17-17.34.57:277][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.07.17-17.34.57:355][  0]LogEngine: Initializing Engine...
+[2020.07.17-17.34.57:357][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.17-17.34.57:358][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.07.17-17.34.57:786][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.17-17.34.57:832][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.17-17.34.57:945][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.17-17.34.57:945][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.17-17.34.57:945][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.17-17.34.57:945][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.17-17.34.57:945][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.17-17.34.57:945][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.17-17.34.57:945][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.17-17.34.57:945][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.17-17.34.57:945][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.17-17.34.57:945][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.17-17.34.57:950][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.17-17.34.57:950][  0]LogAudioMixer: Display: Name: Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-17.34.57:950][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.07.17-17.34.57:950][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.17-17.34.57:950][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.17-17.34.57:950][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.17-17.34.57:950][  0]LogAudioMixer: Display: Channel Order:
+[2020.07.17-17.34.57:950][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.17-17.34.57:950][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.07.17-17.34.57:967][  0]LogAudioMixer: Display: Using Audio Device Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-17.34.57:975][  0]LogInit: FAudioDevice initialized.
+[2020.07.17-17.34.57:975][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.17-17.34.58:135][  0]LogDerivedDataCache: Saved boot cache 0.16s 78MB C:/Users/PJimenez/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.07.17-17.34.58:136][  0]LogInit: Texture streaming: Enabled
+[2020.07.17-17.34.58:145][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.17-17.34.58:145][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.07.17-17.34.58:147][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.07.17-17.34.58:196][  0]LogInit: Transaction tracking system initialized
+[2020.07.17-17.34.58:206][  0]BlueprintLog: New page: Editor Load
+[2020.07.17-17.34.58:239][  0]LocalizationService: Localization service is disabled
+[2020.07.17-17.34.59:584][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/DreamGuards-0.1/Content/' took 0.01s
+[2020.07.17-17.34.59:584][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.17-17.34.59:584][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.17-17.35.00:247][  0]SourceControl: Source control is disabled
+[2020.07.17-17.35.00:247][  0]Cmd: MAP LOAD FILE="../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/Introvideos.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.17-17.35.00:248][  0]LightingResults: New page: Lighting Build
+[2020.07.17-17.35.00:248][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.35.00:248][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.35.00:249][  0]MapCheck: New page: Map Check
+[2020.07.17-17.35.00:249][  0]LightingResults: New page: Lighting Build
+[2020.07.17-17.35.00:278][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.07.17-17.35.00:304][  0]LogAIModule: Creating AISystem for world Introvideos
+[2020.07.17-17.35.00:308][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.17-17.35.00:347][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.07.17-17.35.00:347][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.17-17.35.00:347][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.195ms to complete.
+[2020.07.17-17.35.00:347][  0]LogFileHelpers: Loading map 'Introvideos' took 0.100
+[2020.07.17-17.35.00:437][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.17-17.35.00:494][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.35.00:503][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.35.00:512][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.35.00:520][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.35.00:525][  0]LogCollectionManager: Loaded 0 collections in 0.001478 seconds
+[2020.07.17-17.35.00:541][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/DreamGuards-0.1/Saved/Collections/' took 0.00s
+[2020.07.17-17.35.00:541][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/DreamGuards-0.1/Content/Developers/PJimenez/Collections/' took 0.00s
+[2020.07.17-17.35.00:541][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/DreamGuards-0.1/Content/Collections/' took 0.00s
+[2020.07.17-17.35.00:541][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 3024 classes and 722 folders.
+[2020.07.17-17.35.00:544][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.17-17.35.00:584][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.17-17.35.00:587][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.07.17-17.35.00:685][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.17-17.35.00:688][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.17-17.35.00:694][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.17-17.35.00:767][  0]LogRenderer: Reallocating scene render targets to support 832x468 Format 9 NumSamples 1 (Frame:1).
+[2020.07.17-17.35.00:955][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.17-17.35.01:106][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.17-17.35.01:106][  0]LogLoad: (Engine Initialization) Total time: 9.56 seconds
+[2020.07.17-17.35.01:106][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.17-17.35.01:163][  0]LogContentStreaming: Texture pool size now 400 MB
+[2020.07.17-17.35.01:194][  0]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.17-17.35.01:214][  1]LogAssetRegistry: Asset discovery search completed in 6.5393 seconds
+[2020.07.17-17.35.01:219][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2020.07.17-17.35.05:119][239]LogAIModule: Creating AISystem for world try2-1
+[2020.07.17-17.35.05:152][239]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/try2-1.try2-1
+[2020.07.17-17.35.05:187][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.07.17-17.35.05:193][239]Cmd: MAP LOAD FILE="../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.17-17.35.05:193][239]LightingResults: New page: Lighting Build
+[2020.07.17-17.35.05:194][239]LoadErrors: New page: Loading map: try2-1.umap
+[2020.07.17-17.35.05:194][239]LogWorld: UWorld::CleanupWorld for Introvideos, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.35.05:194][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.35.05:194][239]MapCheck: New page: Map Check
+[2020.07.17-17.35.05:194][239]LightingResults: New page: Lighting Build
+[2020.07.17-17.35.05:227][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.07.17-17.35.05:359][239]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.17-17.35.05:409][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.07.17-17.35.05:444][239]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.17-17.35.05:444][239]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2020.07.17-17.35.05:444][239]LogFileHelpers: Loading map 'try2-1' took 0.252
+[2020.07.17-17.35.05:510][239]LogSlate: Took 0.001926 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.07.17-17.35.05:545][242]LogRenderer: Reallocating scene render targets to support 832x600 Format 10 NumSamples 1 (Frame:1).
+[2020.07.17-17.35.13:274][690]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (iso-64x64-outside_TileMap2)
+[2020.07.17-17.35.18:030][905]LogEditorViewport: Clicking on Actor (LMB): zomby_C (zomby2)
+[2020.07.17-17.35.53:272][918]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/try2-1.try2-1:PersistentLevel.try2-1
+[2020.07.17-17.35.53:534][918]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.07.17-17.35.54:507][918]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.17-17.35.55:223][919]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.17-17.37.05:123][555]BlueprintLog: New page: Compile try2-1
+[2020.07.17-17.37.05:467][555]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.07.17-17.37.06:989][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/try2-1" FILE="../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.17-17.37.07:029][587]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.07.17-17.37.07:701][587]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Saved/try2-1475401CA49A709493BDD1E8D93310BA9.tmp' to '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap'
+[2020.07.17-17.37.07:737][587]LogFileHelpers: Saving map 'try2-1' took 0.748
+[2020.07.17-17.37.07:815][587]AssetCheck: New page: Asset Save: try2-1
+[2020.07.17-17.37.07:815][587]LogContentValidation: Display: Validating World /Game/Maps/try2-1.try2-1
+[2020.07.17-17.37.08:950][610]LogSlate: Window 'try2-1' being destroyed
+[2020.07.17-17.37.08:965][610]LogSlate: Window 'try2-1' being destroyed
+[2020.07.17-17.37.08:965][610]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.37.08:965][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.37.09:940][653]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.17-17.37.09:964][653]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.37.09:964][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.17-17.37.09:965][653]PIE: New page: PIE session: try2-1 (Jul 17, 2020, 9:37:09 AM)
+[2020.07.17-17.37.09:965][653]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.07.17-17.37.09:966][653]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.07.17-17.37.09:967][653]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-17.37.09:994][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027177s)
+[2020.07.17-17.37.09:995][653]LogAIModule: Creating AISystem for world try2-1
+[2020.07.17-17.37.09:995][653]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2020.07.17-17.37.09:995][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/try2-1.try2-1 to /Game/Maps/UEDPIE_0_try2-1.try2-1 (0.028735s)
+[2020.07.17-17.37.10:038][653]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.07.17-17.37.10:040][653]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.17-17.37.10:040][653]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.17-17.37.10:040][653]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.17-17.37.10:040][653]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.17-17.37.10:040][653]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.17-17.37.10:040][653]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.17-17.37.10:040][653]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.17-17.37.10:040][653]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.17-17.37.10:041][653]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.17-17.37.10:041][653]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.17-17.37.10:043][653]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.17-17.37.10:043][653]LogAudioMixer: Display: Name: Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-17.37.10:043][653]LogAudioMixer: Display: Is Default: Yes
+[2020.07.17-17.37.10:043][653]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.17-17.37.10:043][653]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.17-17.37.10:043][653]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.17-17.37.10:043][653]LogAudioMixer: Display: Channel Order:
+[2020.07.17-17.37.10:043][653]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.17-17.37.10:043][653]LogAudioMixer: Display: 1: FrontRight
+[2020.07.17-17.37.10:058][653]LogAudioMixer: Display: Using Audio Device Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-17.37.10:059][653]LogInit: FAudioDevice initialized.
+[2020.07.17-17.37.10:075][653]LogLoad: Game class is 'gamemode_C'
+[2020.07.17-17.37.10:084][653]LogWorld: Bringing World /Game/Maps/UEDPIE_0_try2-1.try2-1 up for play (max tick rate 0) at 2020.07.17-13.37.10
+[2020.07.17-17.37.10:086][653]LogWorld: Bringing up level for play took: 0.009388
+[2020.07.17-17.37.10:086][653]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.07.17-17.37.10:093][653]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.07.17-17.37.10:093][653]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-17.37.10:094][653]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-17.37.10:094][653]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-17.37.10:180][653]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-17.37.10:180][653]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_try2-1 0.379
+[2020.07.17-17.37.10:180][653]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.37.34:126][283]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.37.34:129][283]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.17-17.37.34:150][283]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.17-17.37.34:151][283]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.37.34:151][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.37.34:151][283]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-17.37.34:152][283]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.37.34:152][283]LogWorld: UWorld::CleanupWorld for try2-1, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.37.34:265][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.37.34:273][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.17-17.37.34:274][283]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.37.34:280][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.37.34:323][283]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.37.34:326][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.37.34:385][283]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2020.07.17-17.37.34:417][284]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.07.17-17.37.36:973][417]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/try2-1.try2-1:PersistentLevel.try2-1
+[2020.07.17-17.39.56:929][ 26]BlueprintLog: New page: Compile try2-1
+[2020.07.17-17.39.57:373][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2020.07.17-17.39.58:358][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/try2-1" FILE="../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.17-17.39.58:422][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2020.07.17-17.39.59:148][ 38]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Saved/try2-1FC173DF748FD3897429203BEA1F16835.tmp' to '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap'
+[2020.07.17-17.39.59:193][ 38]LogFileHelpers: Saving map 'try2-1' took 0.836
+[2020.07.17-17.39.59:230][ 38]AssetCheck: New page: Asset Save: try2-1
+[2020.07.17-17.39.59:230][ 38]LogContentValidation: Display: Validating World /Game/Maps/try2-1.try2-1
+[2020.07.17-17.40.00:412][ 65]LogSlate: Window 'try2-1' being destroyed
+[2020.07.17-17.40.00:436][ 65]LogSlate: Window 'try2-1' being destroyed
+[2020.07.17-17.40.00:437][ 65]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.40.00:437][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.40.01:954][138]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (iso-64x64-outside_TileMap2)
+[2020.07.17-17.40.03:223][186]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.17-17.40.03:249][186]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.40.03:249][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.17-17.40.03:249][186]PIE: New page: PIE session: try2-1 (Jul 17, 2020, 9:40:03 AM)
+[2020.07.17-17.40.03:249][186]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-17.40.03:279][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029519s)
+[2020.07.17-17.40.03:280][186]LogAIModule: Creating AISystem for world try2-1
+[2020.07.17-17.40.03:280][186]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2020.07.17-17.40.03:280][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/try2-1.try2-1 to /Game/Maps/UEDPIE_0_try2-1.try2-1 (0.030856s)
+[2020.07.17-17.40.03:329][186]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2020.07.17-17.40.03:331][186]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.17-17.40.03:331][186]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.17-17.40.03:331][186]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.17-17.40.03:331][186]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.17-17.40.03:331][186]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.17-17.40.03:331][186]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.17-17.40.03:331][186]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.17-17.40.03:331][186]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.17-17.40.03:331][186]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.17-17.40.03:331][186]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.17-17.40.03:333][186]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.17-17.40.03:333][186]LogAudioMixer: Display: Name: Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-17.40.03:333][186]LogAudioMixer: Display: Is Default: Yes
+[2020.07.17-17.40.03:333][186]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.17-17.40.03:333][186]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.17-17.40.03:333][186]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.17-17.40.03:333][186]LogAudioMixer: Display: Channel Order:
+[2020.07.17-17.40.03:333][186]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.17-17.40.03:333][186]LogAudioMixer: Display: 1: FrontRight
+[2020.07.17-17.40.03:349][186]LogAudioMixer: Display: Using Audio Device Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-17.40.03:351][186]LogInit: FAudioDevice initialized.
+[2020.07.17-17.40.03:361][186]LogLoad: Game class is 'gamemode_C'
+[2020.07.17-17.40.03:372][186]LogWorld: Bringing World /Game/Maps/UEDPIE_0_try2-1.try2-1 up for play (max tick rate 0) at 2020.07.17-13.40.03
+[2020.07.17-17.40.03:372][186]LogWorld: Bringing up level for play took: 0.009596
+[2020.07.17-17.40.03:372][186]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.07.17-17.40.03:375][186]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-17.40.03:375][186]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-17.40.03:375][186]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-17.40.03:462][186]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-17.40.03:463][186]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_try2-1 -0.339
+[2020.07.17-17.40.03:463][186]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.40.11:198][ 21]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.40.11:208][ 21]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.17-17.40.11:228][ 21]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.17-17.40.11:229][ 21]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.40.11:229][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.40.11:229][ 21]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-17.40.11:229][ 21]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.40.11:229][ 21]LogWorld: UWorld::CleanupWorld for try2-1, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.40.11:314][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.40.11:322][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.17-17.40.11:322][ 21]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.40.11:328][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.40.11:365][ 21]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.40.11:369][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.40.11:376][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.07.17-17.40.11:403][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.07.17-17.40.13:612][142]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.17-17.40.13:635][142]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.40.13:636][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.17-17.40.13:636][142]PIE: New page: PIE session: try2-1 (Jul 17, 2020, 9:40:13 AM)
+[2020.07.17-17.40.13:636][142]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-17.40.13:669][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032781s)
+[2020.07.17-17.40.13:670][142]LogAIModule: Creating AISystem for world try2-1
+[2020.07.17-17.40.13:670][142]LogPlayLevel: PIE: World Init took: (0.001268s)
+[2020.07.17-17.40.13:670][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/try2-1.try2-1 to /Game/Maps/UEDPIE_0_try2-1.try2-1 (0.034193s)
+[2020.07.17-17.40.13:716][142]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.07.17-17.40.13:716][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.17-17.40.13:716][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.17-17.40.13:716][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.17-17.40.13:716][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.17-17.40.13:716][142]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.17-17.40.13:716][142]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.17-17.40.13:716][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.17-17.40.13:716][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.17-17.40.13:717][142]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.17-17.40.13:717][142]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.17-17.40.13:720][142]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.17-17.40.13:720][142]LogAudioMixer: Display: Name: Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-17.40.13:720][142]LogAudioMixer: Display: Is Default: Yes
+[2020.07.17-17.40.13:720][142]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.17-17.40.13:720][142]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.17-17.40.13:720][142]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.17-17.40.13:720][142]LogAudioMixer: Display: Channel Order:
+[2020.07.17-17.40.13:720][142]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.17-17.40.13:720][142]LogAudioMixer: Display: 1: FrontRight
+[2020.07.17-17.40.13:740][142]LogAudioMixer: Display: Using Audio Device Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-17.40.13:742][142]LogInit: FAudioDevice initialized.
+[2020.07.17-17.40.13:750][142]LogLoad: Game class is 'gamemode_C'
+[2020.07.17-17.40.13:760][142]LogWorld: Bringing World /Game/Maps/UEDPIE_0_try2-1.try2-1 up for play (max tick rate 0) at 2020.07.17-13.40.13
+[2020.07.17-17.40.13:760][142]LogWorld: Bringing up level for play took: 0.009794
+[2020.07.17-17.40.13:761][142]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.07.17-17.40.13:763][142]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-17.40.13:763][142]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-17.40.13:763][142]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-17.40.13:854][142]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-17.40.13:854][142]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_try2-1 0.053
+[2020.07.17-17.40.13:854][142]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.40.37:985][731]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.40.37:998][731]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.17-17.40.38:018][731]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.17-17.40.38:018][731]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.40.38:019][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.40.38:019][731]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-17.40.38:019][731]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.40.38:019][731]LogWorld: UWorld::CleanupWorld for try2-1, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.40.38:106][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.40.38:115][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.17-17.40.38:115][731]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.40.38:121][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.40.38:164][731]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.40.38:168][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.40.38:174][731]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.07.17-17.40.38:207][732]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.07.17-17.41.06:305][279]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/try2-1.try2-1:PersistentLevel.try2-1
+[2020.07.17-17.42.09:146][275]BlueprintLog: New page: Compile try2-1
+[2020.07.17-17.42.09:538][275]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.07.17-17.42.10:673][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/try2-1" FILE="../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.17-17.42.10:724][290]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2020.07.17-17.42.11:437][290]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Saved/try2-103306CAF42F182C291519A8E4704F831.tmp' to '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap'
+[2020.07.17-17.42.11:475][290]LogFileHelpers: Saving map 'try2-1' took 0.804
+[2020.07.17-17.42.11:513][290]AssetCheck: New page: Asset Save: try2-1
+[2020.07.17-17.42.11:513][290]LogContentValidation: Display: Validating World /Game/Maps/try2-1.try2-1
+[2020.07.17-17.44.34:860][341]LogEditorTransaction: Undo Move Nodes
+[2020.07.17-17.44.51:369][869]BlueprintLog: New page: Compile try2-1
+[2020.07.17-17.44.51:751][869]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.07.17-17.44.52:788][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/try2-1" FILE="../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.17-17.44.52:833][884]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2020.07.17-17.44.53:504][884]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Saved/try2-1A7BA4F6845F641A98006D992D869FC6F.tmp' to '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap'
+[2020.07.17-17.44.53:540][884]LogFileHelpers: Saving map 'try2-1' took 0.752
+[2020.07.17-17.44.53:613][884]AssetCheck: New page: Asset Save: try2-1
+[2020.07.17-17.44.53:613][884]LogContentValidation: Display: Validating World /Game/Maps/try2-1.try2-1
+[2020.07.17-17.47.52:199][517]BlueprintLog: New page: Compile try2-1
+[2020.07.17-17.47.52:618][517]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.07.17-17.47.53:855][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/try2-1" FILE="../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.17-17.47.53:904][536]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2020.07.17-17.47.54:611][536]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Saved/try2-1BB57A6084D3105E8EA698E91BEDCFFA7.tmp' to '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap'
+[2020.07.17-17.47.54:653][536]LogFileHelpers: Saving map 'try2-1' took 0.799
+[2020.07.17-17.47.54:697][536]AssetCheck: New page: Asset Save: try2-1
+[2020.07.17-17.47.54:697][536]LogContentValidation: Display: Validating World /Game/Maps/try2-1.try2-1
+[2020.07.17-17.48.04:921][987]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Builder.Builder
+[2020.07.17-17.48.34:089][286]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Sprites/Builder/Derecha/Builder-Der.Builder-Der
+[2020.07.17-17.48.34:390][287]LogRenderer: Reallocating scene render targets to support 1272x608 Format 9 NumSamples 1 (Frame:1).
+[2020.07.17-17.48.39:837][458]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.48.39:837][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.48.46:062][683]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.17-17.51.54:869][784]LogEditorTransaction: Undo Move Nodes
+[2020.07.17-17.54.15:621][ 95]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Sprites/ZombieBatalla/ZombieAtaque.ZombieAtaque
+[2020.07.17-17.54.31:008][586]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.54.31:008][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.54.46:470][282]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Sprites/ZombieBatalla/ZombieAtaque.ZombieAtaque
+[2020.07.17-17.55.15:629][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/ZombieBatalla/ZombieAtaque" FILE="../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Sprites/ZombieBatalla/ZombieAtaque.uasset" SILENT=true
+[2020.07.17-17.55.15:688][186]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Saved/ZombieAtaque8C4E06DA4C16A3FA314731A904D13482.tmp' to '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Sprites/ZombieBatalla/ZombieAtaque.uasset'
+[2020.07.17-17.55.15:703][186]AssetCheck: New page: Asset Save: ZombieAtaque
+[2020.07.17-17.55.15:704][186]LogContentValidation: Display: Validating PaperFlipbook /Game/Sprites/ZombieBatalla/ZombieAtaque.ZombieAtaque
+[2020.07.17-17.56.03:812][289]LogSlate: Window 'ZombieAtaque' being destroyed
+[2020.07.17-17.56.03:836][289]LogSlate: Window 'ZombieAtaque' being destroyed
+[2020.07.17-17.56.03:837][289]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.56.03:837][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.56.03:996][289]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.56.03:996][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.56.04:086][289]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.56.04:086][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.56.04:535][309]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.17-17.56.04:566][309]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.56.04:566][309]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.07.17-17.56.04:569][309]LogPlayLevel: [PlayLevel] Compiling try2-1 before play...
+[2020.07.17-17.56.04:951][309]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.07.17-17.56.04:953][309]LogPlayLevel: PlayLevel: Blueprint regeneration took 387 ms (1 blueprints)
+[2020.07.17-17.56.04:953][309]PIE: New page: PIE session: try2-1 (Jul 17, 2020, 9:56:04 AM)
+[2020.07.17-17.56.04:954][309]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-17.56.04:986][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032846s)
+[2020.07.17-17.56.04:988][309]LogAIModule: Creating AISystem for world try2-1
+[2020.07.17-17.56.04:988][309]LogPlayLevel: PIE: World Init took: (0.001446s)
+[2020.07.17-17.56.04:988][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/try2-1.try2-1 to /Game/Maps/UEDPIE_0_try2-1.try2-1 (0.034462s)
+[2020.07.17-17.56.05:029][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.07.17-17.56.05:030][309]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.17-17.56.05:030][309]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.17-17.56.05:030][309]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.17-17.56.05:030][309]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.17-17.56.05:030][309]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.17-17.56.05:030][309]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.17-17.56.05:030][309]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.17-17.56.05:030][309]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.17-17.56.05:030][309]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.17-17.56.05:030][309]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.17-17.56.05:032][309]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.17-17.56.05:032][309]LogAudioMixer: Display: Name: Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-17.56.05:032][309]LogAudioMixer: Display: Is Default: Yes
+[2020.07.17-17.56.05:033][309]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.17-17.56.05:033][309]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.17-17.56.05:033][309]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.17-17.56.05:033][309]LogAudioMixer: Display: Channel Order:
+[2020.07.17-17.56.05:033][309]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.17-17.56.05:033][309]LogAudioMixer: Display: 1: FrontRight
+[2020.07.17-17.56.05:048][309]LogAudioMixer: Display: Using Audio Device Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-17.56.05:049][309]LogInit: FAudioDevice initialized.
+[2020.07.17-17.56.05:067][309]LogLoad: Game class is 'gamemode_C'
+[2020.07.17-17.56.05:075][309]LogWorld: Bringing World /Game/Maps/UEDPIE_0_try2-1.try2-1 up for play (max tick rate 0) at 2020.07.17-13.56.05
+[2020.07.17-17.56.05:076][309]LogWorld: Bringing up level for play took: 0.008095
+[2020.07.17-17.56.05:076][309]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.07.17-17.56.05:079][309]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-17.56.05:079][309]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-17.56.05:079][309]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-17.56.05:184][309]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-17.56.05:184][309]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_try2-1 1.384
+[2020.07.17-17.56.05:184][309]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.56.05:726][351]LogScript: Warning: Accessed None trying to read property Battle
+	try2-1_C /Game/Maps/UEDPIE_0_try2-1.try2-1:PersistentLevel.try2-1_C_10
+	Function /Game/Maps/try2-1.try2-1_C:ExecuteUbergraph_try2-1:43DA
+[2020.07.17-17.56.05:726][351]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Battle". Blueprint:  try2-1 Function:  Execute Ubergraph Try 2-1 Graph:  EventGraph Node:  Branch
+[2020.07.17-17.56.09:033][652]LogScript: Warning: Accessed None trying to read property Battle
+	try2-1_C /Game/Maps/UEDPIE_0_try2-1.try2-1:PersistentLevel.try2-1_C_10
+	Function /Game/Maps/try2-1.try2-1_C:ExecuteUbergraph_try2-1:43DA
+[2020.07.17-17.56.09:033][652]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Battle". Blueprint:  try2-1 Function:  Execute Ubergraph Try 2-1 Graph:  EventGraph Node:  Branch
+[2020.07.17-17.56.09:398][680]LogScript: Warning: Accessed None trying to read property Battle
+	try2-1_C /Game/Maps/UEDPIE_0_try2-1.try2-1:PersistentLevel.try2-1_C_10
+	Function /Game/Maps/try2-1.try2-1_C:ExecuteUbergraph_try2-1:43DA
+[2020.07.17-17.56.09:398][680]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Battle". Blueprint:  try2-1 Function:  Execute Ubergraph Try 2-1 Graph:  EventGraph Node:  Branch
+[2020.07.17-17.56.09:899][725]LogScript: Warning: Accessed None trying to read property Battle
+	try2-1_C /Game/Maps/UEDPIE_0_try2-1.try2-1:PersistentLevel.try2-1_C_10
+	Function /Game/Maps/try2-1.try2-1_C:ExecuteUbergraph_try2-1:43DA
+[2020.07.17-17.56.09:899][725]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Battle". Blueprint:  try2-1 Function:  Execute Ubergraph Try 2-1 Graph:  EventGraph Node:  Branch
+[2020.07.17-17.56.10:217][754]LogScript: Warning: Accessed None trying to read property Battle
+	try2-1_C /Game/Maps/UEDPIE_0_try2-1.try2-1:PersistentLevel.try2-1_C_10
+	Function /Game/Maps/try2-1.try2-1_C:ExecuteUbergraph_try2-1:43DA
+[2020.07.17-17.56.10:217][754]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Battle". Blueprint:  try2-1 Function:  Execute Ubergraph Try 2-1 Graph:  EventGraph Node:  Branch
+[2020.07.17-17.56.10:374][768]LogScript: Warning: Accessed None trying to read property Battle
+	try2-1_C /Game/Maps/UEDPIE_0_try2-1.try2-1:PersistentLevel.try2-1_C_10
+	Function /Game/Maps/try2-1.try2-1_C:ExecuteUbergraph_try2-1:43DA
+[2020.07.17-17.56.10:374][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Battle". Blueprint:  try2-1 Function:  Execute Ubergraph Try 2-1 Graph:  EventGraph Node:  Branch
+[2020.07.17-17.56.10:499][779]LogScript: Warning: Accessed None trying to read property Battle
+	try2-1_C /Game/Maps/UEDPIE_0_try2-1.try2-1:PersistentLevel.try2-1_C_10
+	Function /Game/Maps/try2-1.try2-1_C:ExecuteUbergraph_try2-1:43DA
+[2020.07.17-17.56.10:499][779]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Battle". Blueprint:  try2-1 Function:  Execute Ubergraph Try 2-1 Graph:  EventGraph Node:  Branch
+[2020.07.17-17.56.10:637][791]LogScript: Warning: Accessed None trying to read property Battle
+	try2-1_C /Game/Maps/UEDPIE_0_try2-1.try2-1:PersistentLevel.try2-1_C_10
+	Function /Game/Maps/try2-1.try2-1_C:ExecuteUbergraph_try2-1:43DA
+[2020.07.17-17.56.10:637][791]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Battle". Blueprint:  try2-1 Function:  Execute Ubergraph Try 2-1 Graph:  EventGraph Node:  Branch
+[2020.07.17-17.56.10:739][800]LogScript: Warning: Accessed None trying to read property Battle
+	try2-1_C /Game/Maps/UEDPIE_0_try2-1.try2-1:PersistentLevel.try2-1_C_10
+	Function /Game/Maps/try2-1.try2-1_C:ExecuteUbergraph_try2-1:43DA
+[2020.07.17-17.56.10:740][800]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Battle". Blueprint:  try2-1 Function:  Execute Ubergraph Try 2-1 Graph:  EventGraph Node:  Branch
+[2020.07.17-17.56.10:862][811]LogScript: Warning: Accessed None trying to read property Battle
+	try2-1_C /Game/Maps/UEDPIE_0_try2-1.try2-1:PersistentLevel.try2-1_C_10
+	Function /Game/Maps/try2-1.try2-1_C:ExecuteUbergraph_try2-1:43DA
+[2020.07.17-17.56.10:862][811]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Battle". Blueprint:  try2-1 Function:  Execute Ubergraph Try 2-1 Graph:  EventGraph Node:  Branch
+[2020.07.17-17.56.10:988][822]LogScript: Warning: Accessed None trying to read property Battle
+	try2-1_C /Game/Maps/UEDPIE_0_try2-1.try2-1:PersistentLevel.try2-1_C_10
+	Function /Game/Maps/try2-1.try2-1_C:ExecuteUbergraph_try2-1:43DA
+[2020.07.17-17.56.10:988][822]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Battle". Blueprint:  try2-1 Function:  Execute Ubergraph Try 2-1 Graph:  EventGraph Node:  Branch
+[2020.07.17-17.56.11:214][843]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.56.11:234][843]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.17-17.56.11:254][843]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.17-17.56.11:254][843]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.56.11:254][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.56.11:254][843]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-17.56.11:255][843]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.56.11:255][843]LogWorld: UWorld::CleanupWorld for try2-1, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.56.11:328][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.56.11:336][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.17-17.56.11:337][843]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.56.11:342][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.56.11:378][843]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.56.11:382][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.56.11:390][843]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.07.17-17.56.11:575][844]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.07.17-17.56.13:821][926]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/try2-1.try2-1:PersistentLevel.try2-1
+[2020.07.17-17.57.09:519][542]BlueprintLog: New page: Compile try2-1
+[2020.07.17-17.57.09:928][542]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.07.17-17.57.10:838][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/try2-1" FILE="../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.17-17.57.10:878][555]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.07.17-17.57.11:645][555]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Saved/try2-11156E7864A6B45B39FDF1DB436056070.tmp' to '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap'
+[2020.07.17-17.57.11:693][555]LogFileHelpers: Saving map 'try2-1' took 0.856
+[2020.07.17-17.57.11:728][555]AssetCheck: New page: Asset Save: try2-1
+[2020.07.17-17.57.11:729][555]LogContentValidation: Display: Validating World /Game/Maps/try2-1.try2-1
+[2020.07.17-17.57.32:703][182]LogSlate: Window 'try2-1' being destroyed
+[2020.07.17-17.57.32:739][182]LogSlate: Window 'try2-1' being destroyed
+[2020.07.17-17.57.32:740][182]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.57.32:740][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.57.33:894][219]LogSlate: Window 'Message Log' being destroyed
+[2020.07.17-17.57.33:923][219]LogSlate: Window 'Message Log' being destroyed
+[2020.07.17-17.57.34:863][265]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.17-17.57.34:891][265]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.57.34:892][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.17-17.57.34:892][265]PIE: New page: PIE session: try2-1 (Jul 17, 2020, 9:57:34 AM)
+[2020.07.17-17.57.34:892][265]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-17.57.34:919][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027214s)
+[2020.07.17-17.57.34:920][265]LogAIModule: Creating AISystem for world try2-1
+[2020.07.17-17.57.34:920][265]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2020.07.17-17.57.34:921][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/try2-1.try2-1 to /Game/Maps/UEDPIE_0_try2-1.try2-1 (0.028498s)
+[2020.07.17-17.57.34:975][265]LogUObjectHash: Compacting FUObjectHashTables data took   7.32ms
+[2020.07.17-17.57.34:977][265]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.17-17.57.34:977][265]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.17-17.57.34:977][265]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.17-17.57.34:977][265]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.17-17.57.34:977][265]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.17-17.57.34:977][265]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.17-17.57.34:977][265]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.17-17.57.34:977][265]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.17-17.57.34:977][265]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.17-17.57.34:977][265]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.17-17.57.34:981][265]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.17-17.57.34:981][265]LogAudioMixer: Display: Name: Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-17.57.34:981][265]LogAudioMixer: Display: Is Default: Yes
+[2020.07.17-17.57.34:981][265]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.17-17.57.34:981][265]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.17-17.57.34:981][265]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.17-17.57.34:981][265]LogAudioMixer: Display: Channel Order:
+[2020.07.17-17.57.34:981][265]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.17-17.57.34:982][265]LogAudioMixer: Display: 1: FrontRight
+[2020.07.17-17.57.35:015][265]LogAudioMixer: Display: Using Audio Device Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-17.57.35:018][265]LogInit: FAudioDevice initialized.
+[2020.07.17-17.57.35:036][265]LogLoad: Game class is 'gamemode_C'
+[2020.07.17-17.57.35:050][265]LogWorld: Bringing World /Game/Maps/UEDPIE_0_try2-1.try2-1 up for play (max tick rate 0) at 2020.07.17-13.57.35
+[2020.07.17-17.57.35:051][265]LogWorld: Bringing up level for play took: 0.013429
+[2020.07.17-17.57.35:051][265]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.07.17-17.57.35:054][265]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-17.57.35:054][265]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-17.57.35:054][265]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-17.57.35:173][265]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-17.57.35:173][265]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_try2-1 -0.628
+[2020.07.17-17.57.35:173][265]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.57.39:796][679]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.57.39:816][679]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.17-17.57.39:845][679]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.17-17.57.39:845][679]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.57.39:846][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.57.39:846][679]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-17.57.39:846][679]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.57.39:846][679]LogWorld: UWorld::CleanupWorld for try2-1, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.57.39:953][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.57.39:964][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.17-17.57.39:964][679]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.57.39:976][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.57.40:047][679]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.57.40:051][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.57.40:059][679]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.07.17-17.57.40:091][680]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.07.17-17.57.41:675][754]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.17-17.57.41:697][754]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.57.41:698][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.17-17.57.41:698][754]PIE: New page: PIE session: try2-1 (Jul 17, 2020, 9:57:41 AM)
+[2020.07.17-17.57.41:698][754]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-17.57.41:732][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034219s)
+[2020.07.17-17.57.41:733][754]LogAIModule: Creating AISystem for world try2-1
+[2020.07.17-17.57.41:734][754]LogPlayLevel: PIE: World Init took: (0.001436s)
+[2020.07.17-17.57.41:734][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/try2-1.try2-1 to /Game/Maps/UEDPIE_0_try2-1.try2-1 (0.035818s)
+[2020.07.17-17.57.41:783][754]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.07.17-17.57.41:784][754]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.17-17.57.41:784][754]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.17-17.57.41:784][754]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.17-17.57.41:784][754]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.17-17.57.41:784][754]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.17-17.57.41:784][754]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.17-17.57.41:784][754]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.17-17.57.41:784][754]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.17-17.57.41:785][754]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.17-17.57.41:785][754]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.17-17.57.41:787][754]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.17-17.57.41:787][754]LogAudioMixer: Display: Name: Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-17.57.41:787][754]LogAudioMixer: Display: Is Default: Yes
+[2020.07.17-17.57.41:787][754]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.17-17.57.41:787][754]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.17-17.57.41:787][754]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.17-17.57.41:787][754]LogAudioMixer: Display: Channel Order:
+[2020.07.17-17.57.41:787][754]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.17-17.57.41:787][754]LogAudioMixer: Display: 1: FrontRight
+[2020.07.17-17.57.41:806][754]LogAudioMixer: Display: Using Audio Device Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-17.57.41:808][754]LogInit: FAudioDevice initialized.
+[2020.07.17-17.57.41:823][754]LogLoad: Game class is 'gamemode_C'
+[2020.07.17-17.57.41:833][754]LogWorld: Bringing World /Game/Maps/UEDPIE_0_try2-1.try2-1 up for play (max tick rate 0) at 2020.07.17-13.57.41
+[2020.07.17-17.57.41:833][754]LogWorld: Bringing up level for play took: 0.009275
+[2020.07.17-17.57.41:834][754]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.07.17-17.57.41:836][754]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-17.57.41:836][754]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-17.57.41:836][754]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-17.57.41:934][754]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-17.57.41:934][754]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_try2-1 0.133
+[2020.07.17-17.57.41:934][754]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.57.51:336][609]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.57.51:343][609]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.17-17.57.51:363][609]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.17-17.57.51:363][609]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.57.51:363][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.57.51:364][609]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-17.57.51:364][609]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.57.51:364][609]LogWorld: UWorld::CleanupWorld for try2-1, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.57.51:447][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.57.51:453][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.17-17.57.51:453][609]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.57.51:458][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.57.51:495][609]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.57.51:500][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.57.51:508][609]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.07.17-17.57.51:548][610]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.07.17-17.57.53:537][697]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/try2-1.try2-1:PersistentLevel.try2-1
+[2020.07.17-17.58.26:567][837]BlueprintLog: New page: Compile try2-1
+[2020.07.17-17.58.26:953][837]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.07.17-17.58.27:455][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/try2-1" FILE="../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.17-17.58.27:499][838]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.07.17-17.58.28:200][838]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Saved/try2-16CA92BDE42DD37DC7EB0E9956B08C640.tmp' to '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap'
+[2020.07.17-17.58.28:236][838]LogFileHelpers: Saving map 'try2-1' took 0.782
+[2020.07.17-17.58.28:313][838]AssetCheck: New page: Asset Save: try2-1
+[2020.07.17-17.58.28:313][838]LogContentValidation: Display: Validating World /Game/Maps/try2-1.try2-1
+[2020.07.17-17.58.29:285][863]LogSlate: Window 'try2-1' being destroyed
+[2020.07.17-17.58.29:305][863]LogSlate: Window 'try2-1' being destroyed
+[2020.07.17-17.58.29:305][863]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.58.29:305][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.58.30:193][896]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.17-17.58.30:222][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.58.30:222][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.17-17.58.30:222][896]PIE: New page: PIE session: try2-1 (Jul 17, 2020, 9:58:30 AM)
+[2020.07.17-17.58.30:223][896]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-17.58.30:252][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029785s)
+[2020.07.17-17.58.30:254][896]LogAIModule: Creating AISystem for world try2-1
+[2020.07.17-17.58.30:254][896]LogPlayLevel: PIE: World Init took: (0.001414s)
+[2020.07.17-17.58.30:254][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/try2-1.try2-1 to /Game/Maps/UEDPIE_0_try2-1.try2-1 (0.031343s)
+[2020.07.17-17.58.30:309][896]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2020.07.17-17.58.30:310][896]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.17-17.58.30:310][896]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.17-17.58.30:310][896]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.17-17.58.30:310][896]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.17-17.58.30:310][896]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.17-17.58.30:310][896]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.17-17.58.30:310][896]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.17-17.58.30:310][896]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.17-17.58.30:310][896]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.17-17.58.30:310][896]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.17-17.58.30:312][896]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.17-17.58.30:312][896]LogAudioMixer: Display: Name: Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-17.58.30:312][896]LogAudioMixer: Display: Is Default: Yes
+[2020.07.17-17.58.30:312][896]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.17-17.58.30:312][896]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.17-17.58.30:312][896]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.17-17.58.30:312][896]LogAudioMixer: Display: Channel Order:
+[2020.07.17-17.58.30:312][896]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.17-17.58.30:312][896]LogAudioMixer: Display: 1: FrontRight
+[2020.07.17-17.58.30:328][896]LogAudioMixer: Display: Using Audio Device Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-17.58.30:329][896]LogInit: FAudioDevice initialized.
+[2020.07.17-17.58.30:340][896]LogLoad: Game class is 'gamemode_C'
+[2020.07.17-17.58.30:350][896]LogWorld: Bringing World /Game/Maps/UEDPIE_0_try2-1.try2-1 up for play (max tick rate 0) at 2020.07.17-13.58.30
+[2020.07.17-17.58.30:350][896]LogWorld: Bringing up level for play took: 0.009025
+[2020.07.17-17.58.30:350][896]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.07.17-17.58.30:353][896]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-17.58.30:353][896]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-17.58.30:353][896]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-17.58.30:454][896]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-17.58.30:454][896]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_try2-1 0.653
+[2020.07.17-17.58.30:455][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.58.37:333][525]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_RemoveFromParent', from offset 15410
+[2020.07.17-17.58.37:333][525]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Maps/try2-1.try2-1_C:InpActEvt_Enter_K2Node_InputKeyEvent_1
+	Function /Game/Maps/try2-1.try2-1_C:ExecuteUbergraph_try2-1
+
+[2020.07.17-17.58.37:333][525]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/try2-1.try2-1:PersistentLevel.try2-1
+[2020.07.17-17.59.01:612][525]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.59.01:623][525]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.17-17.59.01:643][525]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.17-17.59.01:643][525]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.59.01:643][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.59.01:643][525]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-17.59.01:643][525]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.59.01:644][525]LogWorld: UWorld::CleanupWorld for try2-1, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.59.01:724][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.59.01:824][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.17-17.59.01:825][525]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.59.01:830][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.59.01:875][525]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.59.01:879][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.59.01:885][525]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.07.17-17.59.02:270][526]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.07.17-17.59.04:385][618]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.17-17.59.04:406][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.59.04:406][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.17-17.59.04:406][618]PIE: New page: PIE session: try2-1 (Jul 17, 2020, 9:59:04 AM)
+[2020.07.17-17.59.04:406][618]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-17.59.04:434][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028158s)
+[2020.07.17-17.59.04:435][618]LogAIModule: Creating AISystem for world try2-1
+[2020.07.17-17.59.04:436][618]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2020.07.17-17.59.04:436][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/try2-1.try2-1 to /Game/Maps/UEDPIE_0_try2-1.try2-1 (0.029459s)
+[2020.07.17-17.59.04:487][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.07.17-17.59.04:488][618]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.17-17.59.04:488][618]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.17-17.59.04:488][618]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.17-17.59.04:488][618]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.17-17.59.04:488][618]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.17-17.59.04:488][618]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.17-17.59.04:488][618]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.17-17.59.04:488][618]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.17-17.59.04:489][618]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.17-17.59.04:489][618]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.17-17.59.04:491][618]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.17-17.59.04:491][618]LogAudioMixer: Display: Name: Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-17.59.04:491][618]LogAudioMixer: Display: Is Default: Yes
+[2020.07.17-17.59.04:491][618]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.17-17.59.04:491][618]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.17-17.59.04:491][618]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.17-17.59.04:491][618]LogAudioMixer: Display: Channel Order:
+[2020.07.17-17.59.04:491][618]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.17-17.59.04:491][618]LogAudioMixer: Display: 1: FrontRight
+[2020.07.17-17.59.04:507][618]LogAudioMixer: Display: Using Audio Device Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-17.59.04:509][618]LogInit: FAudioDevice initialized.
+[2020.07.17-17.59.04:513][618]LogLoad: Game class is 'gamemode_C'
+[2020.07.17-17.59.04:522][618]LogWorld: Bringing World /Game/Maps/UEDPIE_0_try2-1.try2-1 up for play (max tick rate 0) at 2020.07.17-13.59.04
+[2020.07.17-17.59.04:523][618]LogWorld: Bringing up level for play took: 0.008308
+[2020.07.17-17.59.04:523][618]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.07.17-17.59.04:525][618]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-17.59.04:525][618]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-17.59.04:525][618]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-17.59.04:618][618]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-17.59.04:618][618]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_try2-1 0.817
+[2020.07.17-17.59.04:618][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.59.08:658][978]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_RemoveFromParent', from offset 15410
+[2020.07.17-17.59.08:658][978]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Maps/try2-1.try2-1_C:InpActEvt_Enter_K2Node_InputKeyEvent_1
+	Function /Game/Maps/try2-1.try2-1_C:ExecuteUbergraph_try2-1
+
+[2020.07.17-17.59.36:345][978]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.59.36:363][978]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.17-17.59.36:383][978]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.17-17.59.36:383][978]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.59.36:383][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.59.36:384][978]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-17.59.36:384][978]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.59.36:384][978]LogWorld: UWorld::CleanupWorld for try2-1, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.59.36:451][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.59.36:543][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.17-17.59.36:543][978]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-17.59.36:548][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-17.59.36:589][978]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-17.59.36:592][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-17.59.36:598][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.07.17-17.59.36:994][979]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.07.17-17.59.37:190][986]LogSlate: Window 'try2-1' being destroyed
+[2020.07.17-17.59.37:204][986]LogSlate: Window 'try2-1' being destroyed
+[2020.07.17-17.59.37:205][986]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-17.59.37:205][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.00.01:520][795]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Main.Main
+[2020.07.17-18.00.02:852][828]LogSlate: Window 'Main' being destroyed
+[2020.07.17-18.00.02:859][828]LogSlate: Window 'Main' being destroyed
+[2020.07.17-18.00.02:860][828]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-18.00.02:860][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.00.21:072][753]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InterfazUsuario/MenuPausa.MenuPausa
+[2020.07.17-18.01.21:170][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InterfazUsuario/MenuPausa" FILE="../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/InterfazUsuario/MenuPausa.uasset" SILENT=true
+[2020.07.17-18.01.21:243][216]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Saved/MenuPausa6FD0819848A4040E338FA0A9767C6EFB.tmp' to '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/InterfazUsuario/MenuPausa.uasset'
+[2020.07.17-18.01.21:268][216]AssetCheck: New page: Asset Save: MenuPausa
+[2020.07.17-18.01.21:268][216]LogContentValidation: Display: Validating WidgetBlueprint /Game/InterfazUsuario/MenuPausa.MenuPausa
+[2020.07.17-18.01.24:138][327]LogSlate: Window 'MenuPausa' being destroyed
+[2020.07.17-18.01.24:153][327]LogSlate: Window 'MenuPausa' being destroyed
+[2020.07.17-18.01.24:158][327]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-18.01.24:158][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.01.24:165][327]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-18.01.24:165][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.01.25:165][373]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.17-18.01.25:186][373]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-18.01.25:187][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.17-18.01.25:187][373]PIE: New page: PIE session: try2-1 (Jul 17, 2020, 10:01:25 AM)
+[2020.07.17-18.01.25:187][373]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-18.01.25:217][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029664s)
+[2020.07.17-18.01.25:218][373]LogAIModule: Creating AISystem for world try2-1
+[2020.07.17-18.01.25:218][373]LogPlayLevel: PIE: World Init took: (0.001468s)
+[2020.07.17-18.01.25:218][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/try2-1.try2-1 to /Game/Maps/UEDPIE_0_try2-1.try2-1 (0.031289s)
+[2020.07.17-18.01.25:348][373]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2020.07.17-18.01.25:351][373]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.17-18.01.25:351][373]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.17-18.01.25:351][373]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.17-18.01.25:351][373]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.17-18.01.25:351][373]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.17-18.01.25:351][373]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.17-18.01.25:351][373]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.17-18.01.25:351][373]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.17-18.01.25:351][373]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.17-18.01.25:351][373]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.17-18.01.25:354][373]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.17-18.01.25:354][373]LogAudioMixer: Display: Name: Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-18.01.25:354][373]LogAudioMixer: Display: Is Default: Yes
+[2020.07.17-18.01.25:354][373]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.17-18.01.25:354][373]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.17-18.01.25:354][373]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.17-18.01.25:354][373]LogAudioMixer: Display: Channel Order:
+[2020.07.17-18.01.25:354][373]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.17-18.01.25:354][373]LogAudioMixer: Display: 1: FrontRight
+[2020.07.17-18.01.25:371][373]LogAudioMixer: Display: Using Audio Device Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-18.01.25:372][373]LogInit: FAudioDevice initialized.
+[2020.07.17-18.01.25:384][373]LogLoad: Game class is 'gamemode_C'
+[2020.07.17-18.01.25:393][373]LogWorld: Bringing World /Game/Maps/UEDPIE_0_try2-1.try2-1 up for play (max tick rate 0) at 2020.07.17-14.01.25
+[2020.07.17-18.01.25:393][373]LogWorld: Bringing up level for play took: 0.008172
+[2020.07.17-18.01.25:393][373]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.07.17-18.01.25:396][373]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-18.01.25:396][373]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-18.01.25:396][373]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-18.01.25:489][373]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-18.01.25:489][373]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_try2-1 -0.312
+[2020.07.17-18.01.25:489][373]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-18.01.27:529][564]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_RemoveFromParent', from offset 160
+[2020.07.17-18.01.27:529][564]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/InterfazUsuario/MenuPausa.MenuPausa_C:BndEvt__Resume_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature
+	Function /Game/InterfazUsuario/MenuPausa.MenuPausa_C:ExecuteUbergraph_MenuPausa
+
+[2020.07.17-18.01.27:529][564]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InterfazUsuario/MenuPausa.MenuPausa
+[2020.07.17-18.01.55:564][398]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_RemoveFromParent', from offset 15410
+[2020.07.17-18.01.55:564][398]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Maps/try2-1.try2-1_C:InpActEvt_Enter_K2Node_InputKeyEvent_1
+	Function /Game/Maps/try2-1.try2-1_C:ExecuteUbergraph_try2-1
+
+[2020.07.17-18.01.55:564][398]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/try2-1.try2-1:PersistentLevel.try2-1
+[2020.07.17-18.02.25:282][398]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-18.02.25:283][398]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.17-18.02.25:302][398]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.17-18.02.25:302][398]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-18.02.25:303][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-18.02.25:303][398]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-18.02.25:303][398]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-18.02.25:303][398]LogWorld: UWorld::CleanupWorld for try2-1, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-18.02.25:377][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.02.25:464][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.17-18.02.25:464][398]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-18.02.25:470][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.02.25:514][398]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-18.02.25:517][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-18.02.25:557][398]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.07.17-18.02.25:929][399]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.07.17-18.02.26:676][427]LogSlate: Window 'try2-1' being destroyed
+[2020.07.17-18.02.26:684][427]LogSlate: Window 'try2-1' being destroyed
+[2020.07.17-18.02.26:689][427]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-18.02.26:690][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.02.26:694][427]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-18.02.26:694][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.02.26:781][427]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-18.02.26:781][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.02.28:953][526]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InterfazUsuario/MenuPausa.MenuPausa
+[2020.07.17-18.03.16:626][468]BlueprintLog: New page: Compile MenuPausa
+[2020.07.17-18.03.16:968][468]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2020.07.17-18.03.17:519][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InterfazUsuario/MenuPausa" FILE="../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/InterfazUsuario/MenuPausa.uasset" SILENT=true
+[2020.07.17-18.03.17:593][488]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Saved/MenuPausa7FF625224404CF67C8ABC0863870B6E0.tmp' to '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/InterfazUsuario/MenuPausa.uasset'
+[2020.07.17-18.03.17:607][488]AssetCheck: New page: Asset Save: MenuPausa
+[2020.07.17-18.03.17:607][488]LogContentValidation: Display: Validating WidgetBlueprint /Game/InterfazUsuario/MenuPausa.MenuPausa
+[2020.07.17-18.03.21:525][638]LogSlate: Window 'MenuPausa' being destroyed
+[2020.07.17-18.03.21:540][638]LogSlate: Window 'MenuPausa' being destroyed
+[2020.07.17-18.03.21:545][638]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-18.03.21:545][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.03.21:574][638]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-18.03.21:574][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.03.22:636][687]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.17-18.03.22:667][687]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-18.03.22:667][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.17-18.03.22:668][687]PIE: New page: PIE session: try2-1 (Jul 17, 2020, 10:03:22 AM)
+[2020.07.17-18.03.22:668][687]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-18.03.22:709][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041598s)
+[2020.07.17-18.03.22:711][687]LogAIModule: Creating AISystem for world try2-1
+[2020.07.17-18.03.22:711][687]LogPlayLevel: PIE: World Init took: (0.001561s)
+[2020.07.17-18.03.22:711][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/try2-1.try2-1 to /Game/Maps/UEDPIE_0_try2-1.try2-1 (0.043343s)
+[2020.07.17-18.03.22:760][687]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2020.07.17-18.03.22:762][687]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.17-18.03.22:762][687]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.17-18.03.22:762][687]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.17-18.03.22:762][687]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.17-18.03.22:762][687]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.17-18.03.22:762][687]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.17-18.03.22:762][687]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.17-18.03.22:762][687]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.17-18.03.22:762][687]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.17-18.03.22:762][687]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.17-18.03.22:765][687]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.17-18.03.22:765][687]LogAudioMixer: Display: Name: Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-18.03.22:765][687]LogAudioMixer: Display: Is Default: Yes
+[2020.07.17-18.03.22:765][687]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.17-18.03.22:765][687]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.17-18.03.22:765][687]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.17-18.03.22:765][687]LogAudioMixer: Display: Channel Order:
+[2020.07.17-18.03.22:765][687]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.17-18.03.22:765][687]LogAudioMixer: Display: 1: FrontRight
+[2020.07.17-18.03.22:782][687]LogAudioMixer: Display: Using Audio Device Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-18.03.22:784][687]LogInit: FAudioDevice initialized.
+[2020.07.17-18.03.22:794][687]LogLoad: Game class is 'gamemode_C'
+[2020.07.17-18.03.22:803][687]LogWorld: Bringing World /Game/Maps/UEDPIE_0_try2-1.try2-1 up for play (max tick rate 0) at 2020.07.17-14.03.22
+[2020.07.17-18.03.22:803][687]LogWorld: Bringing up level for play took: 0.008599
+[2020.07.17-18.03.22:804][687]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.07.17-18.03.22:806][687]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-18.03.22:806][687]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-18.03.22:806][687]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-18.03.22:909][687]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-18.03.22:909][687]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_try2-1 1.108
+[2020.07.17-18.03.22:910][687]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-18.03.25:778][955]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_RemoveFromParent', from offset 10
+[2020.07.17-18.03.25:778][955]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/InterfazUsuario/MenuPausa.MenuPausa_C:BndEvt__Resume_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature
+	Function /Game/InterfazUsuario/MenuPausa.MenuPausa_C:ExecuteUbergraph_MenuPausa
+
+[2020.07.17-18.03.25:778][955]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InterfazUsuario/MenuPausa.MenuPausa
+[2020.07.17-18.03.33:726][248]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_RemoveFromParent', from offset 15410
+[2020.07.17-18.03.33:726][248]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Maps/try2-1.try2-1_C:InpActEvt_Enter_K2Node_InputKeyEvent_1
+	Function /Game/Maps/try2-1.try2-1_C:ExecuteUbergraph_try2-1
+
+[2020.07.17-18.03.33:726][248]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/try2-1.try2-1:PersistentLevel.try2-1
+[2020.07.17-18.04.04:029][248]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-18.04.04:042][248]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.17-18.04.04:062][248]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.17-18.04.04:062][248]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-18.04.04:062][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-18.04.04:062][248]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-18.04.04:063][248]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-18.04.04:063][248]LogWorld: UWorld::CleanupWorld for try2-1, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-18.04.04:134][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.04.04:230][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.17-18.04.04:230][248]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-18.04.04:236][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.04.04:277][248]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-18.04.04:280][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-18.04.04:287][248]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.07.17-18.04.04:669][249]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.07.17-18.04.49:836][134]BlueprintLog: New page: Compile try2-1
+[2020.07.17-18.04.50:256][134]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2020.07.17-18.04.51:253][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/try2-1" FILE="../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.17-18.04.51:303][154]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.07.17-18.04.52:042][154]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Saved/try2-12A280DC44351C9BDE681C3AF2EBCDBD0.tmp' to '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap'
+[2020.07.17-18.04.52:085][154]LogFileHelpers: Saving map 'try2-1' took 0.832
+[2020.07.17-18.04.52:128][154]AssetCheck: New page: Asset Save: try2-1
+[2020.07.17-18.04.52:128][154]LogContentValidation: Display: Validating World /Game/Maps/try2-1.try2-1
+[2020.07.17-18.05.12:454][949]BlueprintLog: New page: Compile try2-1
+[2020.07.17-18.05.12:851][949]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2020.07.17-18.05.13:720][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/try2-1" FILE="../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.17-18.05.13:769][966]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.07.17-18.05.14:505][966]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Saved/try2-195542BFB4E6BED70926DFDBF62E53799.tmp' to '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap'
+[2020.07.17-18.05.14:541][966]LogFileHelpers: Saving map 'try2-1' took 0.821
+[2020.07.17-18.05.14:578][966]AssetCheck: New page: Asset Save: try2-1
+[2020.07.17-18.05.14:578][966]LogContentValidation: Display: Validating World /Game/Maps/try2-1.try2-1
+[2020.07.17-18.05.17:276][ 70]LogSlate: Window 'try2-1' being destroyed
+[2020.07.17-18.05.17:280][ 70]LogSlate: Window 'try2-1' being destroyed
+[2020.07.17-18.05.17:283][ 70]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-18.05.17:284][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.05.17:289][ 70]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-18.05.17:289][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.05.17:380][ 70]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-18.05.17:380][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.05.17:891][ 90]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.17-18.05.17:920][ 90]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-18.05.17:920][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.17-18.05.17:920][ 90]PIE: New page: PIE session: try2-1 (Jul 17, 2020, 10:05:17 AM)
+[2020.07.17-18.05.17:920][ 90]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-18.05.17:955][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034440s)
+[2020.07.17-18.05.17:956][ 90]LogAIModule: Creating AISystem for world try2-1
+[2020.07.17-18.05.17:956][ 90]LogPlayLevel: PIE: World Init took: (0.001317s)
+[2020.07.17-18.05.17:956][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/try2-1.try2-1 to /Game/Maps/UEDPIE_0_try2-1.try2-1 (0.035912s)
+[2020.07.17-18.05.18:007][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2020.07.17-18.05.18:008][ 90]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.17-18.05.18:008][ 90]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.17-18.05.18:008][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.17-18.05.18:008][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.17-18.05.18:008][ 90]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.17-18.05.18:008][ 90]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.17-18.05.18:008][ 90]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.17-18.05.18:008][ 90]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.17-18.05.18:009][ 90]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.17-18.05.18:009][ 90]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.17-18.05.18:011][ 90]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.17-18.05.18:011][ 90]LogAudioMixer: Display: Name: Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-18.05.18:011][ 90]LogAudioMixer: Display: Is Default: Yes
+[2020.07.17-18.05.18:011][ 90]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.17-18.05.18:011][ 90]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.17-18.05.18:011][ 90]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.17-18.05.18:011][ 90]LogAudioMixer: Display: Channel Order:
+[2020.07.17-18.05.18:011][ 90]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.17-18.05.18:011][ 90]LogAudioMixer: Display: 1: FrontRight
+[2020.07.17-18.05.18:027][ 90]LogAudioMixer: Display: Using Audio Device Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-18.05.18:029][ 90]LogInit: FAudioDevice initialized.
+[2020.07.17-18.05.18:039][ 90]LogLoad: Game class is 'gamemode_C'
+[2020.07.17-18.05.18:048][ 90]LogWorld: Bringing World /Game/Maps/UEDPIE_0_try2-1.try2-1 up for play (max tick rate 0) at 2020.07.17-14.05.18
+[2020.07.17-18.05.18:048][ 90]LogWorld: Bringing up level for play took: 0.007986
+[2020.07.17-18.05.18:048][ 90]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.07.17-18.05.18:050][ 90]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-18.05.18:050][ 90]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-18.05.18:051][ 90]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-18.05.18:125][ 90]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-18.05.18:125][ 90]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_try2-1 0.325
+[2020.07.17-18.05.18:126][ 90]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-18.05.22:494][517]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_RemoveFromParent', from offset 10
+[2020.07.17-18.05.22:494][517]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/InterfazUsuario/MenuPausa.MenuPausa_C:BndEvt__Resume_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature
+	Function /Game/InterfazUsuario/MenuPausa.MenuPausa_C:ExecuteUbergraph_MenuPausa
+
+[2020.07.17-18.05.22:494][517]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InterfazUsuario/MenuPausa.MenuPausa
+[2020.07.17-18.05.35:093][938]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_RemoveFromParent', from offset 964
+[2020.07.17-18.05.35:093][938]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Maps/try2-1.try2-1_C:InpActEvt_Enter_K2Node_InputKeyEvent_1
+	Function /Game/Maps/try2-1.try2-1_C:ExecuteUbergraph_try2-1
+
+[2020.07.17-18.05.35:093][938]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/try2-1.try2-1:PersistentLevel.try2-1
+[2020.07.17-18.05.42:526][938]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-18.05.42:542][938]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.17-18.05.42:562][938]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.17-18.05.42:562][938]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-18.05.42:562][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-18.05.42:562][938]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-18.05.42:562][938]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-18.05.42:563][938]LogWorld: UWorld::CleanupWorld for try2-1, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-18.05.42:642][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.05.42:731][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.17-18.05.42:732][938]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-18.05.42:737][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.05.42:779][938]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-18.05.42:783][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-18.05.42:790][938]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.07.17-18.05.43:148][939]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.07.17-18.08.50:076][639]BlueprintLog: New page: Compile try2-1
+[2020.07.17-18.08.50:471][639]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2020.07.17-18.08.51:304][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/try2-1" FILE="../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.17-18.08.51:356][653]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2020.07.17-18.08.52:084][653]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Saved/try2-1F090A0E84B5298659EE8C287648C4C21.tmp' to '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/Maps/try2-1.umap'
+[2020.07.17-18.08.52:119][653]LogFileHelpers: Saving map 'try2-1' took 0.817
+[2020.07.17-18.08.52:161][653]AssetCheck: New page: Asset Save: try2-1
+[2020.07.17-18.08.52:161][653]LogContentValidation: Display: Validating World /Game/Maps/try2-1.try2-1
+[2020.07.17-18.08.57:643][889]BlueprintLog: New page: Compile MenuPausa
+[2020.07.17-18.08.57:842][889]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2020.07.17-18.08.58:503][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InterfazUsuario/MenuPausa" FILE="../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/InterfazUsuario/MenuPausa.uasset" SILENT=true
+[2020.07.17-18.08.58:579][914]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Saved/MenuPausa2C4F6398457042F38D851EA026D1A0CD.tmp' to '../../../../../../Documentos/Unreal Projects/DreamGuards-0.1/Content/InterfazUsuario/MenuPausa.uasset'
+[2020.07.17-18.08.58:595][914]AssetCheck: New page: Asset Save: MenuPausa
+[2020.07.17-18.08.58:596][914]LogContentValidation: Display: Validating WidgetBlueprint /Game/InterfazUsuario/MenuPausa.MenuPausa
+[2020.07.17-18.09.07:836][260]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.17-18.09.07:873][260]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-18.09.07:873][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.17-18.09.07:873][260]PIE: New page: PIE session: try2-1 (Jul 17, 2020, 10:09:07 AM)
+[2020.07.17-18.09.07:873][260]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-18.09.07:910][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036317s)
+[2020.07.17-18.09.07:911][260]LogAIModule: Creating AISystem for world try2-1
+[2020.07.17-18.09.07:911][260]LogPlayLevel: PIE: World Init took: (0.001346s)
+[2020.07.17-18.09.07:911][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/try2-1.try2-1 to /Game/Maps/UEDPIE_0_try2-1.try2-1 (0.037823s)
+[2020.07.17-18.09.07:967][260]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2020.07.17-18.09.07:967][260]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.17-18.09.07:967][260]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.17-18.09.07:967][260]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.17-18.09.07:967][260]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.17-18.09.07:967][260]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.17-18.09.07:967][260]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.17-18.09.07:967][260]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.17-18.09.07:967][260]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.17-18.09.07:968][260]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.17-18.09.07:968][260]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.17-18.09.07:971][260]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.17-18.09.07:971][260]LogAudioMixer: Display: Name: Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-18.09.07:971][260]LogAudioMixer: Display: Is Default: Yes
+[2020.07.17-18.09.07:971][260]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.17-18.09.07:971][260]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.17-18.09.07:971][260]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.17-18.09.07:971][260]LogAudioMixer: Display: Channel Order:
+[2020.07.17-18.09.07:971][260]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.17-18.09.07:971][260]LogAudioMixer: Display: 1: FrontRight
+[2020.07.17-18.09.07:989][260]LogAudioMixer: Display: Using Audio Device Altavoces / Auriculares (IDT High Definition Audio CODEC)
+[2020.07.17-18.09.07:991][260]LogInit: FAudioDevice initialized.
+[2020.07.17-18.09.08:004][260]LogLoad: Game class is 'gamemode_C'
+[2020.07.17-18.09.08:013][260]LogWorld: Bringing World /Game/Maps/UEDPIE_0_try2-1.try2-1 up for play (max tick rate 0) at 2020.07.17-14.09.08
+[2020.07.17-18.09.08:014][260]LogWorld: Bringing up level for play took: 0.008664
+[2020.07.17-18.09.08:014][260]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2020.07.17-18.09.08:016][260]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-18.09.08:016][260]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.17-18.09.08:016][260]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-18.09.08:131][260]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.17-18.09.08:131][260]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_try2-1 0.33
+[2020.07.17-18.09.08:131][260]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-18.09.16:158][ 29]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-18.09.16:171][ 29]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.17-18.09.16:191][ 29]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.17-18.09.16:191][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-18.09.16:191][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-18.09.16:191][ 29]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_try2-1
+[2020.07.17-18.09.16:191][ 29]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-18.09.16:192][ 29]LogWorld: UWorld::CleanupWorld for try2-1, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-18.09.16:275][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.09.16:396][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.17-18.09.16:396][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/try2-1.try2-1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1' with GeneratedClass '/Game/Maps/try2-1.try2-1_C' with ClassGeneratedBy '/Game/Maps/try2-1.try2-1:PersistentLevel.try2-1'
+[2020.07.17-18.09.16:402][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-18.09.16:441][ 29]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.17-18.09.16:445][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-18.09.16:453][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.07.17-18.09.16:471][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.07.17-18.09.36:185][756]LogUObjectArray: Warning: Other object in slot
+[2020.07.17-18.09.36:185][756]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.07.17-18.09.36:556][756]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.370 s
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: === Handled ensure: ===
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: 
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: Stack: 
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd55907b69 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd5511678a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd5512409f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd407fc5b1 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd3af8977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd3af41647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd5adeb144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd5afddc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd5ae360b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd5ae146f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd5ae08ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd623b4ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd623a242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd623b7195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd6239ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd73fb250d USER32.dll!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd73fb2367 USER32.dll!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd623b8699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ff7cba86db0 UE4Editor.exe!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ff7cba9c3ec UE4Editor.exe!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ff7cba9c4ca UE4Editor.exe!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ff7cbaaceae UE4Editor.exe!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ff7cbaafcbe UE4Editor.exe!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd73e713d2 KERNEL32.DLL!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: [Callstack] 0x00007ffd742203c4 ntdll.dll!UnknownFunction []
+[2020.07.17-18.09.36:556][756]LogOutputDevice: Error: 
+[2020.07.17-18.09.36:598][756]LogStats:                SubmitErrorReport -  0.000 s
